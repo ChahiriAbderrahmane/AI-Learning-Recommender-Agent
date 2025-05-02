@@ -1,0 +1,177 @@
+Metadata-Version: 2.4
+Name: crewai-tools
+Version: 0.40.1
+Summary: Set of tools for the crewAI framework
+Project-URL: Homepage, https://crewai.com
+Project-URL: Repository, https://github.com/crewAIInc/crewAI-tools
+Project-URL: Documentation, https://docs.crewai.com
+Author-email: João Moura <joaomdmoura@gmail.com>
+License-File: LICENSE
+Requires-Python: <=3.13,>=3.10
+Requires-Dist: chromadb>=0.4.22
+Requires-Dist: click>=8.1.8
+Requires-Dist: crewai>=0.105.0
+Requires-Dist: docker>=7.1.0
+Requires-Dist: embedchain>=0.1.114
+Requires-Dist: lancedb>=0.5.4
+Requires-Dist: openai>=1.12.0
+Requires-Dist: pydantic>=2.6.1
+Requires-Dist: pyright>=1.1.350
+Requires-Dist: pytube>=15.0.0
+Requires-Dist: requests>=2.31.0
+Provides-Extra: apify
+Requires-Dist: langchain-apify<1.0.0,>=0.1.2; extra == 'apify'
+Provides-Extra: beautifulsoup4
+Requires-Dist: beautifulsoup4>=4.12.3; extra == 'beautifulsoup4'
+Provides-Extra: browserbase
+Requires-Dist: browserbase>=1.0.5; extra == 'browserbase'
+Provides-Extra: composio-core
+Requires-Dist: composio-core>=0.6.11.post1; extra == 'composio-core'
+Provides-Extra: databricks-sdk
+Requires-Dist: databricks-sdk>=0.46.0; extra == 'databricks-sdk'
+Provides-Extra: exa-py
+Requires-Dist: exa-py>=1.8.7; extra == 'exa-py'
+Provides-Extra: firecrawl-py
+Requires-Dist: firecrawl-py>=1.8.0; extra == 'firecrawl-py'
+Provides-Extra: hyperbrowser
+Requires-Dist: hyperbrowser>=0.18.0; extra == 'hyperbrowser'
+Provides-Extra: linkup-sdk
+Requires-Dist: linkup-sdk>=0.2.2; extra == 'linkup-sdk'
+Provides-Extra: multion
+Requires-Dist: multion>=1.1.0; extra == 'multion'
+Provides-Extra: patronus
+Requires-Dist: patronus>=0.0.16; extra == 'patronus'
+Provides-Extra: qdrant-client
+Requires-Dist: qdrant-client>=1.12.1; extra == 'qdrant-client'
+Provides-Extra: scrapegraph-py
+Requires-Dist: scrapegraph-py>=1.9.0; extra == 'scrapegraph-py'
+Provides-Extra: scrapfly-sdk
+Requires-Dist: scrapfly-sdk>=0.8.19; extra == 'scrapfly-sdk'
+Provides-Extra: selenium
+Requires-Dist: selenium>=4.27.1; extra == 'selenium'
+Provides-Extra: serpapi
+Requires-Dist: serpapi>=0.1.5; extra == 'serpapi'
+Provides-Extra: snowflake
+Requires-Dist: cryptography>=43.0.3; extra == 'snowflake'
+Requires-Dist: snowflake-connector-python>=3.12.4; extra == 'snowflake'
+Requires-Dist: snowflake-sqlalchemy>=1.7.3; extra == 'snowflake'
+Provides-Extra: spider-client
+Requires-Dist: spider-client>=0.1.25; extra == 'spider-client'
+Provides-Extra: sqlalchemy
+Requires-Dist: sqlalchemy>=2.0.35; extra == 'sqlalchemy'
+Provides-Extra: weaviate-client
+Requires-Dist: weaviate-client>=4.10.2; extra == 'weaviate-client'
+Description-Content-Type: text/markdown
+
+<div align="center">
+
+![Logo of crewAI, two people rowing on a boat](./assets/crewai_logo.png)
+
+<div align="left">
+
+# CrewAI Tools
+
+Empower your CrewAI agents with powerful, customizable tools to elevate their capabilities and tackle sophisticated, real-world tasks.
+
+CrewAI Tools provide the essential functionality to extend your agents, helping you rapidly enhance your automations with reliable, ready-to-use tools or custom-built solutions tailored precisely to your needs.
+
+---
+
+## Quick Links
+
+[Homepage](https://www.crewai.com/) | [Documentation](https://docs.crewai.com/) | [Examples](https://github.com/crewAIInc/crewAI-examples) | [Community](https://community.crewai.com/)
+
+---
+
+## Available Tools
+
+CrewAI provides an extensive collection of powerful tools ready to enhance your agents:
+
+- **File Management**: `FileReadTool`, `FileWriteTool`
+- **Web Scraping**: `ScrapeWebsiteTool`, `SeleniumScrapingTool`
+- **Database Integrations**: `PGSearchTool`, `MySQLSearchTool`
+- **API Integrations**: `SerperApiTool`, `EXASearchTool`
+- **AI-powered Tools**: `DallETool`, `VisionTool`
+
+And many more robust tools to simplify your agent integrations.
+
+---
+
+## Creating Custom Tools
+
+CrewAI offers two straightforward approaches to creating custom tools:
+
+### Subclassing `BaseTool`
+
+Define your tool by subclassing:
+
+```python
+from crewai.tools import BaseTool
+
+class MyCustomTool(BaseTool):
+    name: str = "Tool Name"
+    description: str = "Detailed description here."
+
+    def _run(self, *args, **kwargs):
+        # Your tool logic here
+```
+
+### Using the `tool` Decorator
+
+Quickly create lightweight tools using decorators:
+
+```python
+from crewai import tool
+
+@tool("Tool Name")
+def my_custom_function(input):
+    # Tool logic here
+    return output
+```
+
+---
+
+## Why Use CrewAI Tools?
+
+- **Simplicity & Flexibility**: Easy-to-use yet powerful enough for complex workflows.
+- **Rapid Integration**: Seamlessly incorporate external services, APIs, and databases.
+- **Enterprise Ready**: Built for stability, performance, and consistent results.
+
+---
+
+## Contribution Guidelines
+
+We welcome contributions from the community!
+
+1. Fork and clone the repository.
+2. Create a new branch (`git checkout -b feature/my-feature`).
+3. Commit your changes (`git commit -m 'Add my feature'`).
+4. Push your branch (`git push origin feature/my-feature`).
+5. Open a pull request.
+
+---
+
+## Developer Quickstart
+
+```shell
+pip install crewai[tools]
+```
+
+### Development Setup
+
+- Install dependencies: `uv sync`
+- Run tests: `uv run pytest`
+- Run static type checking: `uv run pyright`
+- Set up pre-commit hooks: `pre-commit install`
+
+---
+
+## Support and Community
+
+Join our rapidly growing community and receive real-time support:
+
+- [Discourse](https://community.crewai.com/)
+- [Open an Issue](https://github.com/crewAIInc/crewAI/issues)
+
+Build smarter, faster, and more powerful AI solutions—powered by CrewAI Tools.
+
