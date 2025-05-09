@@ -1,3 +1,51 @@
+# Environnement virtuel
+.venv/
+venv/
+ENV/
+
+# Fichiers d'environnement contenant des secrets
 .env
+*.env
+
+# Fichiers de clés et de credentials sensibles
+*credentials*
+*-key.json
+*-c0e72ab2ecef.json
+gen-lang-client-0627056286-c0e72ab2ecef.json
+
+# Exclure les fichiers JSON à la racine mais autoriser ceux dans les sous-dossiers
+/*.json
+
+# Inclure explicitement les fichiers JSON dans resources
+!/resources/**/*.json
+
+# Logs
+logs/
+*.log
+
+# Cache Python
 __pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers système
 .DS_Store
+Thumbs.db
+
+# Fichiers IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers de build
+dist/
+build/
+*.egg-info/
+
+# Fichiers temporaires
+*.tmp
+*~
