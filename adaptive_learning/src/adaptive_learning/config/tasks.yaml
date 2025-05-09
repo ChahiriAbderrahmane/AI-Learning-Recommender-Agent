@@ -5,6 +5,14 @@ research_task:
     the learner's specific needs, learning level, and preferences.
   expected_output: >
     A list of relevant educational resources with detailed information about each, including
-    source links, content type, difficulty level, and relevance to the learner's needs.
+      source links, content type, difficulty level, brief description of the topic, and relevance to the learner's needs. 
+      The output sould be structred in a dictionary format with the following keys:
+    - source_link: URL of the resource
+    - content_type: Type of content (e.g., video, article, MOOC, etc.)
+    - difficulty_level: Difficulty level of the content (e.g., beginner, intermediate, advanced)
+    - description: Brief description of the content
+    - relevance: Explanation of how the content matches the learner's needs and preferences
+    
   agent: educational_researcher
   output_key: research_results
+  

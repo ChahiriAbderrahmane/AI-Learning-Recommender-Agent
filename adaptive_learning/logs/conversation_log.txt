@@ -156,3 +156,1653 @@ Educational Resources for Creating Views in SQL:
 ```
 [2025-05-02 22:18:37] You: exit
 [2025-05-02 22:18:37] Chatbot ended.
+[2025-05-04 19:34:51] Here we go.
+[2025-05-04 19:35:10] You: how to learn about deleting tables in sql
+[2025-05-04 19:35:37] Bot: ```
+Here are 5 relevant educational resources for learning about deleting tables in SQL:
+
+1.  **Title:** SQL DROP TABLE Statement
+    *   **Source Link:** https://www.w3schools.com/sql/sql_drop_table.asp
+    *   **Content Type:** Tutorial/Documentation
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** This W3Schools tutorial provides a straightforward explanation of the `DROP TABLE` statement, which is used to delete a table and its structure from a database. It includes syntax examples and is suitable for beginners.
+
+2.  **Title:** Comparing TRUNCATE TABLE, DELETE, and DROP TABLE in SQL
+    *   **Source Link:** https://learnsql.com/blog/difference-between-truncate-delete-and-drop-table-in-sql/
+    *   **Content Type:** Article
+    *   **Difficulty Level:** Intermediate
+    *   **Relevance:** This article clearly compares `TRUNCATE TABLE`, `DELETE`, and `DROP TABLE` commands, explaining when to use each one. It's helpful for understanding the nuances and differences between these methods of removing data and tables.
+
+3.  **Title:** TRUNCATE TABLE (Transact-SQL) - SQL Server | Microsoft Learn
+    *   **Source Link:** https://learn.microsoft.com/en-us/sql/t-sql/statements/truncate-table-transact-sql?view=sql-server-ver16
+    *   **Content Type:** Documentation
+    *   **Difficulty Level:** Intermediate/Advanced
+    *   **Relevance:** This Microsoft documentation provides in-depth information about the `TRUNCATE TABLE` statement in SQL Server. It explains the syntax, usage, and performance considerations, as well as the differences between `TRUNCATE TABLE` and `DELETE`. It's most useful for those working with SQL Server.
+
+4.  **Title:** SQL DELETE Statement
+    *   **Source Link:** https://www.w3schools.com/sql/sql_delete.asp
+    *   **Content Type:** Tutorial/Documentation
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** This resource explains how to use the SQL DELETE statement to delete specific rows from a table. While not directly deleting the table itself, understanding DELETE is crucial for managing data within tables.
+
+5.  **Title:** Drop a Table with SQL | SQL Beginner Tutorial
+    *   **Source Link:** https://www.coginiti.co/tutorials/beginner/drop-a-table/
+    *   **Content Type:** Tutorial
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** A beginner-friendly tutorial explaining how to drop a table using SQL, including syntax and practical examples. This provides a solid foundation for understanding how to remove entire tables from a database.
+```
+[2025-05-04 19:36:06] You: exit
+[2025-05-04 19:36:06] Chatbot ended.
+[2025-05-04 19:37:31] Here we go.
+[2025-05-04 19:37:52] You: I wanna learn about deleting tables with sql
+[2025-05-04 19:38:05] Bot: ```
+[
+    {
+        "Source Link": "https://www.sqlcourse.com/beginner-course/drop-a-table/",
+        "Content Type": "Tutorial",
+        "Difficulty Level": "Beginner",
+        "Description": "Explains the basic `DROP TABLE` command to delete a table and its contents. Suitable for beginners learning SQL."
+    },
+    {
+        "Source Link": "https://learn.microsoft.com/en-us/sql/relational-databases/tables/delete-tables-database-engine?view=sql-server-ver16",
+        "Content Type": "Documentation",
+        "Difficulty Level": "Intermediate",
+        "Description": "Microsoft's documentation on deleting tables within SQL Server. Covers aspects like removing relationships. Good for users familiar with SQL Server Management Studio."
+    },
+    {
+        "Source Link": "https://learnsql.com/cookbook/how-to-drop-a-table-in-sql/",
+        "Content Type": "Tutorial",
+        "Difficulty Level": "Beginner",
+        "Description": "A concise tutorial on using `DROP TABLE` to remove a table. Ideal for quickly understanding the syntax and its effect."
+    },
+    {
+        "Source Link": "https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-table-transact-sql?view=sql-server-ver16",
+        "Content Type": "Documentation",
+        "Difficulty Level": "Advanced",
+        "Description": "In-depth Microsoft documentation on the `DROP TABLE` statement, including syntax, arguments, permissions, and examples within Transact-SQL. Includes more advanced topics like soft-delete semantics."
+    },
+    {
+        "Source Link": "https://www.youtube.com/watch?v=y37SRYTChBM",
+        "Content Type": "Video Tutorial",
+        "Difficulty Level": "Beginner",
+        "Description": "A video tutorial demonstrating how to delete tables from a database. Useful for visual learners who prefer step-by-step instructions."
+    }
+]
+```
+[2025-05-04 19:39:14] You: thank you
+[2025-05-04 19:39:31] Bot: ```
+**Educational Resources on "Thank You" Etiquette**
+
+Here's a list of resources to help you learn about thank you notes and expressing gratitude:
+
+1.  **Resource:** r/etiquette on Reddit: A note on thank you notes
+    *   **Source Link:** [https://www.reddit.com/r/etiquette/comments/17zprou/a_note_on_thank_you_notes/](https://www.reddit.com/r/etiquette/comments/17zprou/a_note_on_thank_you_notes/)
+    *   **Content Type:** Online Forum Discussion
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** Provides diverse perspectives on thank you note etiquette, including cultural differences. Useful for understanding varying expectations.
+
+2.  **Resource:** Thank You Note Etiquette: Everything you Need to Know | Papier US
+    *   **Source Link:** [https://www.papier.com/us/thefold/articles/thank-you-note-etiquette](https://www.papier.com/us/thefold/articles/thank-you-note-etiquette)
+    *   **Content Type:** Article
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** Covers the basics of thank you note etiquette, including when to send them, what to write, and how soon to send them.
+
+3.  **Resource:** How to Write a Thank-You Note: Tips & Examples | Paper & Packaging
+    *   **Source Link:** [https://www.howlifeunfolds.com/learning-education/how-write-thank-you-note](https://www.howlifeunfolds.com/learning-education/how-write-thank-you-note)
+    *   **Content Type:** Article
+    *   **Difficulty Level:** Beginner/Intermediate
+    *   **Relevance:** Offers practical tips and examples for writing thank you notes, including addressing professional contacts.
+
+4.  **Resource:** How to Write a Perfect Thank-You Note for Any Occasion, According to an Etiquette Expert
+    *   **Source Link:** [https://www.veranda.com/luxury-lifestyle/a45642014/how-to-write-a-thank-you-note/](https://www.veranda.com/luxury-lifestyle/a45642014/how-to-write-a-thank-you-note/)
+    *   **Content Type:** Article
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** Provides expert advice on thank you note etiquette, including timing and addressing potential lateness.
+
+5.  **Resource:** What is the etiquette around thank-you notes for gifts? Is it still considered important to send them, or has that changed in recent years? - Quora
+    *   **Source Link:** [https://www.quora.com/What-is-the-etiquette-around-thank-you-notes-for-gifts-Is-it-still-considered-important-to-send-them-or-has-that-changed-in-recent-years](https://www.quora.com/What-is-the-etiquette-around-thank-you-notes-for-gifts-Is-it-still-considered-important-to-send-them-or-has-that-changed-in-recent-years)
+    *   **Content Type:** Q&A Forum
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** Addresses the evolving importance of thank you notes and offers insights based on social context and personal relationships.
+
+6.  **Resource:** How to Write a Thank-You Email That Gets Results | Grammarly
+    *   **Source Link:** [https://www.grammarly.com/blog/thank-you-email/](https://www.grammarly.com/blog/thank-you-email/)
+    *   **Content Type:** Article/Blog Post
+    *   **Difficulty Level:** Beginner/Intermediate
+    *   **Relevance:** Focuses on professional thank you emails, with templates and tips for effective communication.
+
+7.  **Resource:** How to Write a Meaningful Thank You Note - Hallmark
+    *   **Source Link:** [https://ideas.hallmark.com/articles/gratitude/how-to-write-thank-you-note/](https://ideas.hallmark.com/articles/gratitude/how-to-write-thank-you-note/)
+    *   **Content Type:** Article
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** Offers simple and practical advice on writing heartfelt thank you notes, emphasizing brevity and personalization.
+
+8.  **Resource:** 31 Creative Ways to Say Thank You - SignUpGenius
+    *   **Source Link:** [https://www.signupgenius.com/groups/ways-to-say-thank-you.cfm](https://www.signupgenius.com/groups/ways-to-say-thank-you.cfm)
+    *   **Content Type:** List of Ideas
+    *   **Difficulty Level:** Beginner
+    *   **Relevance:** Provides a range of creative ideas for expressing gratitude beyond traditional thank you notes.
+```
+[2025-05-04 19:39:38] You: exit
+[2025-05-04 19:39:38] Chatbot ended.
+[2025-05-05 20:53:06] Here we go.
+[2025-05-05 20:53:22] You: classes in python
+[2025-05-05 20:53:37] Bot: Here's a list of Python learning resources for various skill levels and learning preferences:
+
+**1. Python for Beginners on Microsoft Learn**
+
+*   **Source URL:** [https://learn.microsoft.com/en-us/shows/intro-to-python-development/](https://learn.microsoft.com/en-us/shows/intro-to-python-development/)
+*   **Content Type:** Video Series
+*   **Difficulty Level:** Beginner
+*   **Relevance:** This is a video series specifically designed for beginners, focusing on the fundamentals of Python.
+
+**2. Python Basics on Coursera**
+
+*   **Source URL:** [https://www.coursera.org/learn/python-basics](https://www.coursera.org/learn/python-basics)
+*   **Content Type:** Online Course
+*   **Difficulty Level:** Beginner
+*   **Relevance:** This course covers the basics of Python programming, suitable for individuals with no prior programming experience. It includes lectures and assignments.
+
+**3. Python Complete Course For Python Beginners | Udemy**
+
+*   **Source URL:** [https://www.udemy.com/course/python-complete-course-for-beginners/](https://www.udemy.com/course/python-complete-course-for-beginners/)
+*   **Content Type:** Online Course
+*   **Difficulty Level:** Beginner
+*   **Relevance:** Learn <strong>Python</strong> <strong>From</strong> <strong>Beginner</strong> To Advanced Level
+
+**4. Python for Everybody on Coursera**
+*   **Source URL:** [https://www.coursera.org/courses?query=python&productDifficultyLevel=Beginner](https://www.coursera.org/courses?query=python&productDifficultyLevel=Beginner)
+*   **Content Type:** Online Course
+*   **Difficulty Level:** Beginner
+*   **Relevance:** Recommended as a good resource for beginners that teaches in a comprehensive manner with well-explained concepts and exercises.
+
+**5. Quora - What are some good courses on Python (for beginners) outside of Udemy and Codecademy?**
+*   **Source URL:** [https://www.quora.com/What-are-some-good-courses-on-Python-for-beginners-outside-of-Udemy-and-Codecademy](https://www.quora.com/What-are-some-good-courses-on-Python-for-beginners-outside-of-Udemy-and-Codecademy)
+*   **Content Type:** Online Articles
+*   **Difficulty Level:** Beginner
+*   **Relevance:** Good platform to start exploring some additional information about python for beginners.
+[2025-05-06 11:54:34] Here we go.
+[2025-05-06 11:54:42] You: joining tables with sql
+[2025-05-06 11:55:04] Bot: ```
+| Resource Title                                  | Source Link                                                       | Content Type | Difficulty Level | Description                                                                                             | Relevance to Learner                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------- | ----------------------------------------------------------------- | ------------ | ---------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SQL Joins                                         | https://www.w3schools.com/sql/sql_join.asp                        | Tutorial     | Beginner         | Covers basic SQL joins with examples.                                                                 | Good starting point for understanding the fundamentals of SQL joins. Provides a broad overview with simple explanations suitable for beginners.                                                                                                                                                                                                                      |
+| SQL JOINS Tutorial With Practice Exercises      | https://datalemur.com/sql-tutorial/sql-joins-inner-outer-left-right | Tutorial     | Beginner/Intermediate | Teaches how to combine multiple tables with inner and outer joins using Spotify as an example.      | Uses a practical example (Spotify data) to explain joins, making it engaging. Includes practice exercises to reinforce learning. Bridges the gap between beginner and intermediate levels.                                                                                                                                                                           |
+| SQL Joins (Inner, Left, Right and Full Join)      | https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/ | Article      | Beginner         | Explains inner, left, right, and full joins with examples.                                        | Clear explanations of different join types with illustrative examples. Ideal for solidifying understanding of basic SQL joins.                                                                                                                                                                                                                                  |
+| SQL JOINs for Beginners                           | https://learnsql.com/blog/sql-joins-made-easy/                      | Article      | Beginner         | Provides a beginner-friendly introduction to SQL joins.                                                 | Focuses on making joins easy to understand for beginners. Useful for learners who prefer a step-by-step explanation.                                                                                                                                                                                                                                 |
+| SQL INNER JOIN                                    | https://www.w3schools.com/sql/sql_join_inner.asp                   | Tutorial     | Beginner         | Focuses specifically on the INNER JOIN type.                                                            | Dives deeper into INNER JOINs, providing focused learning on this specific type of join.                                                                                                                                                                                                                                                            |
+| Advanced Joins In SQL Server 2017                 | https://www.c-sharpcorner.com/article/advanced-joins-in-sql-server-2017/ | Article      | Advanced         | Covers inner, outer, cross, and self joins with a focus on optimization in SQL Server 2017.      | Targets learners looking for advanced techniques and performance optimization, especially in the context of SQL Server.                                                                                                                                                                                                                                      |
+| [SQL Basic] Let’s learn some advanced JOIN queries! | https://medium.com/sqlgate/sql-basic-lets-learn-some-advanced-join-queries-80e63b6d6250 | Article      | Intermediate/Advanced | Explores more complex SQL join queries.                                                            | Suitable for learners who have a basic understanding of joins and want to explore more advanced query structures.                                                                                                                                                                                                                                |
+| SQL Advanced Joins - Left Excluding Join           | https://www.essentialsql.com/sql-advanced-joins-left-excluding-join/        | Article      | Advanced         | Explains how to create a Left Excluding Join in SQL Server.                                      | Useful for learners interested in very specific and less common join types.                                                                                                                                                                                                                                                               |
+| SQL join - Full outer, left, right and inner join      | https://www.sqlshack.com/sql-join-full-outer-left-right-and-inner-join/        | Article      | Beginner/Intermediate         | Covers Inner, Left, Right, Full outer, Cross, and Self-Join.                                      | Provide you a good overview of different joins.                                                                                                                                                                                                                                                               |
+```
+[2025-05-06 11:57:20] You: views in sql
+[2025-05-06 11:57:40] Bot: ```json
+{
+  "resources": [
+    {
+      "source_link": "https://www.geeksforgeeks.org/sql-views/",
+      "content_type": "Article",
+      "difficulty_level": "Beginner",
+      "description": "This article provides a comprehensive introduction to SQL views, covering their definition, creation, advantages, and usage with examples. It also explains how to update and delete views.",
+      "relevance": "This is a good starting point for beginners to understand the basics of SQL views."
+    },
+    {
+      "source_link": "https://learn.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-ver16",
+      "content_type": "Article",
+      "difficulty_level": "Intermediate",
+      "description": "This Microsoft Learn article defines views as virtual tables whose contents are defined by a query. It discusses the benefits of using views, such as security, simplicity, and consistency. It also covers creating, modifying, and deleting views, as well as performance considerations.",
+      "relevance": "This resource is useful for learners who want to gain a deeper understanding of SQL views and their practical applications in SQL Server."
+    },
+    {
+      "source_link": "https://www.w3schools.com/sql/sql_view.asp",
+      "content_type": "Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "This W3Schools tutorial explains how to create, replace, and drop views in SQL. It provides simple examples and exercises to help learners understand the syntax and usage of views.",
+      "relevance": "This is a practical tutorial for beginners who want to learn how to work with SQL views through hands-on examples."
+    },
+    {
+      "source_link": "https://www.geeksforgeeks.org/pl-sql-view/",
+      "content_type": "Article",
+      "difficulty_level": "Intermediate",
+      "description": "This article explores PL/SQL views, including their creation, updating, limitations, and how they enhance database efficiency. It discusses managing virtual tables in PL/SQL.",
+      "relevance": "This resource is beneficial for learners interested in the specifics of PL/SQL views and how they differ from standard SQL views."
+    },
+    {
+      "source_link": "https://www.geeksforgeeks.org/differences-between-views-and-materialized-views-in-sql/",
+      "content_type": "Article",
+      "difficulty_level": "Advanced",
+      "description": "This article explains the differences between views and materialized views in SQL, covering their storage, performance, and use cases. It is targeted toward learners who want to understand the advanced concepts related to views.",
+      "relevance": "This resource is suitable for learners with some experience with SQL views who want to delve into more advanced topics."
+    }
+  ]
+}
+```
+[2025-05-06 13:30:41] You: sql
+[2025-05-06 13:31:10] Bot: ```json
+{
+  "resources": [
+    {
+      "source_link": "https://www.w3schools.com/sql/",
+      "content_type": "tutorial",
+      "difficulty_level": "beginner",
+      "description": "W3Schools SQL tutorial covers basic SQL syntax, data types, and operations like SELECT, INSERT, UPDATE, and DELETE. Includes examples and exercises.",
+      "relevance": "Suitable for learners who are new to SQL and want to learn the fundamentals."
+    },
+    {
+      "source_link": "https://www.sqltutorial.org/",
+      "content_type": "tutorial",
+      "difficulty_level": "beginner",
+      "description": "SQLTutorial.org provides hands-on SQL tutorials with practical examples and quizzes, covering topics from basic queries to more advanced concepts.",
+      "relevance": "Ideal for learners who prefer a hands-on approach with immediate feedback."
+    },
+    {
+      "source_link": "https://www.youtube.com/watch?v=h0nxCDiD-zg",
+      "content_type": "video",
+      "difficulty_level": "beginner",
+      "description": "A beginner-friendly SQL tutorial video on YouTube that covers the basics of SQL with clear explanations and examples.",
+      "relevance": "Best for visual learners who prefer video instruction."
+    },
+    {
+      "source_link": "https://www.codecademy.com/learn/learn-sql",
+      "content_type": "course",
+      "difficulty_level": "beginner",
+      "description": "Codecademy's SQL course teaches how to manage and analyze data using SQL. Includes interactive exercises and projects.",
+      "relevance": "Suitable for learners who prefer interactive coding environments."
+    },
+    {
+      "source_link": "https://www.geeksforgeeks.org/sql-tutorial/",
+      "content_type": "tutorial",
+      "difficulty_level": "beginner",
+      "description": "GeeksforGeeks SQL tutorial explores SQL examples for managing employee data, covering fundamental SQL concepts.",
+      "relevance": "Helpful for learners interested in practical examples related to data management."
+    },
+    {
+      "source_link": "https://airbyte.com/data-engineering-resources/advanced-sql-concepts",
+      "content_type": "article",
+      "difficulty_level": "advanced",
+      "description": "Airbyte's article covers advanced SQL concepts such as window functions, aggregate functions, and pivoting techniques.",
+      "relevance": "Suitable for learners aiming to expand their SQL skills beyond the basics."
+    },
+    {
+      "source_link": "https://builtin.com/data-science/advanced-sql",
+      "content_type": "article",
+      "difficulty_level": "advanced",
+      "description": "Built In's article explores advanced SQL concepts like CTEs, recursive queries, subqueries, pivoting, and self-joins.",
+      "relevance": "Ideal for experienced SQL users looking to master complex queries."
+    },
+    {
+      "source_link": "https://medium.com/dp6-us-blog/7-advanced-sql-concepts-you-need-to-know-45fa149ba0b0",
+      "content_type": "article",
+      "difficulty_level": "advanced",
+      "description": "A Medium article discussing 7 advanced SQL concepts, offering insights for experienced data professionals.",
+      "relevance": "Good for learners seeking a deeper understanding of SQL for data applications."
+    },
+    {
+      "source_link": "https://www.stratascratch.com/blog/advanced-sql-concepts-to-improve-your-and-code-s-performance/",
+      "content_type": "article",
+      "difficulty_level": "advanced",
+      "description": "StrataScratch's article discusses advanced SQL concepts and their use cases, including examples from interview questions.",
+      "relevance": "Helpful for learners preparing for data science interviews."
+    },
+    {
+      "source_link": "https://pg-p.ctme.caltech.edu/blog/data-analytics/sql-for-data-analysis",
+      "content_type": "article",
+      "difficulty_level": "intermediate",
+      "description": "Caltech's blog post discusses the application of SQL in querying and manipulating data to extract insights and inform business decisions.",
+      "relevance": "Suitable for learners focusing on data analysis with SQL."
+    },
+    {
+      "source_link": "https://www.udacity.com/course/sql-for-data-analysis--ud198",
+      "content_type": "MOOC",
+      "difficulty_level": "intermediate",
+      "description": "Udacity's free SQL for Data Analysis course teaches how to use SQL to extract and analyze data stored in databases.",
+      "relevance": "Ideal for learners who want a structured course on SQL for data analysis."
+    },
+    {
+      "source_link": "https://mode.com/sql-tutorial/introduction-to-sql/",
+      "content_type": "tutorial",
+      "difficulty_level": "intermediate",
+      "description": "Mode Analytics' SQL tutorial provides an introduction to SQL for data analysis, covering various functions for data manipulation.",
+      "relevance": "Helpful for understanding SQL's role in data analysis workflows."
+    },
+    {
+      "source_link": "https://www.geeksforgeeks.org/sql-data-analysis/",
+      "content_type": "tutorial",
+      "difficulty_level": "intermediate",
+      "description": "GeeksforGeeks tutorial covers SQL as a tool for data analysts, focusing on querying and manipulating data in relational databases.",
+      "relevance": "Useful for learners seeking detailed tutorials on SQL for data analysis."
+    },
+    {
+      "source_link": "https://www.youtube.com/watch?v=7mz73uXD9DA",
+      "content_type": "video",
+      "difficulty_level": "intermediate",
+      "description": "A 4-hour YouTube video tutorial on SQL for data analytics, providing a comprehensive overview of SQL for data analysis tasks.",
+      "relevance": "Best for visual learners interested in a comprehensive video tutorial."
+    }
+  ]
+}
+```
+[2025-05-06 13:31:45] You: exit
+[2025-05-06 13:31:45] Chatbot ended.
+[2025-05-06 13:32:26] Here we go.
+[2025-05-06 13:32:32] You: views in sql
+[2025-05-06 13:33:19] Bot: ```json
+[
+  {
+    "source_link": "https://www.geeksforgeeks.org/sql-views/",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "A comprehensive guide explaining SQL views, their creation, usage, and advantages. It covers basic concepts and examples suitable for beginners.",
+    "relevance": "Provides a foundational understanding of SQL views, suitable for learners starting with SQL."
+  },
+  {
+    "source_link": "https://www.sqltutorial.org/sql-views/",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "This tutorial explains what SQL views are, how they are defined, and how to query data from them. It's ideal for those new to SQL views.",
+    "relevance": "Explains the fundamental concepts of SQL views with clear definitions, aiding beginners in understanding the topic."
+  },
+  {
+    "source_link": "https://www.w3schools.com/sql/sql_view.asp",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "W3Schools' SQL view tutorial covers creating, replacing, and dropping views with simple examples. It provides a hands-on approach for beginners.",
+    "relevance": "Offers practical examples and exercises for creating and manipulating views, which is beneficial for beginners."
+  },
+  {
+    "source_link": "https://beginner-sql-tutorial.com/sql-views.htm",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "This tutorial explains SQL views as virtual tables, focusing on restricting access and hiding data complexity. It's designed for beginners.",
+    "relevance": "Focuses on the core concept of views as virtual tables and their use in simplifying database access for beginners."
+  },
+  {
+    "source_link": "https://www.programiz.com/sql/views",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "Programiz's tutorial explains SQL views with examples, comparing them to functions in programming. Suitable for beginners with basic programming knowledge.",
+    "relevance": "Uses analogies to programming functions to explain SQL views, which can be helpful for learners with a programming background."
+  },
+  {
+    "source_link": "https://learnsql.com/blog/sql-views/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "An article discussing the use of SQL views to simplify complex queries, providing examples of how views can be used to streamline SQL code.",
+    "relevance": "Demonstrates how views can be used to simplify complex SQL queries, valuable for learners ready to move beyond the basics."
+  },
+  {
+    "source_link": "https://www.tutorialspoint.com/sql/sql-views.htm",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "Tutorialspoint's SQL view tutorial covers the creation, usage, and management of views, including more advanced concepts like updating views.",
+    "relevance": "Covers a broader range of topics related to views, including updating views, suitable for intermediate learners."
+  },
+  {
+    "source_link": "https://www.red-gate.com/simple-talk/sql/database-administration/working-with-views-in-sql-server/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "Explains how views are saved queries and how SQL Server uses them to return results, primarily focuses on SQL Server.",
+    "relevance": "Provides practical insights into working with views in SQL Server, beneficial for learners using this specific database system."
+  },
+  {
+    "source_link": "https://learn.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-ver16",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "Microsoft's documentation on SQL Server views covers advanced topics such as using views for security and backward compatibility.",
+    "relevance": "Explores advanced uses of views, such as security and backward compatibility, targeted toward advanced SQL users."
+  },
+    {
+    "source_link": "https://www.youtube.com/watch?v=cLSxasHg9WY",
+    "content_type": "video",
+    "difficulty_level": "beginner",
+    "description": "A video tutorial that explains SQL views with clear explanations and examples. It targets users who prefer video-based learning.",
+    "relevance": "Caters to visual learners who prefer watching video tutorials to understand SQL views. Clear instructions and examples are provided"
+  },
+  {
+    "source_link": "https://csharp-video-tutorials.blogspot.com/2012/09/views-in-sql-server-part-39.html",
+    "content_type": "video",
+    "difficulty_level": "beginner",
+    "description": "A free C#, .Net, and SQL Server video tutorial explaining views, suitable for beginners. It presents views as saved SQL queries.",
+    "relevance": "Offers a free video resource for beginners, particularly helpful for those working with SQL Server and familiar with C# or .Net."
+  },
+  {
+    "source_link": "https://www.youtube.com/watch?v=Uj2zlprEpi8",
+    "content_type": "video",
+    "difficulty_level": "beginner",
+    "description": "Video tutorial on creating views in SQL with examples, great for beginners.",
+    "relevance": "Caters to visual learners, offering practical guidance on creating views."
+  },
+  {
+    "source_link": "https://www.mooc-list.com/tags/sql",
+    "content_type": "MOOC",
+    "difficulty_level": "beginner",
+    "description": "A list of SQL MOOCs and free online courses related to SQL, it helps finding courses that cover SQL views.",
+    "relevance": "Provides a collection of MOOCs for structured learning on SQL, which can include in-depth coverage of views."
+  },
+  {
+    "source_link": "https://www.my-mooc.com/en/mooc/databases-and-sql-for-data-science/",
+    "content_type": "MOOC",
+    "difficulty_level": "beginner",
+    "description": "A MOOC focuses on databases and SQL for data science, where SQL views are likely to be covered.",
+    "relevance": "A course is designed to help learners know more about SQL"
+  },
+  {
+    "source_link": "https://www.vertabelo.com/blog/database-views/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "A blog post that explores database views, explaining them as virtual tables resulting from an SQL query. Focuses on creating and using views.",
+    "relevance": "Useful for gaining a deeper understanding of how database views function and how to implement them effectively."
+  }
+]
+```
+[2025-05-06 13:35:05] You: views in sql
+[2025-05-06 13:36:28] Here we go.
+[2025-05-06 13:36:32] You: sql
+[2025-05-06 13:36:53] Bot: ```json
+[
+  {
+    "source_link": "https://www.sqltutorial.org/",
+    "content_type": "Tutorial Website",
+    "difficulty_level": "Beginner",
+    "description": "A comprehensive SQL tutorial with hands-on examples and quizzes to help beginners master SQL quickly.",
+    "relevance": "This is a great starting point for learners new to SQL, providing a practical approach to learning the basics."
+  },
+  {
+    "source_link": "https://www.w3schools.com/sql/",
+    "content_type": "Tutorial Website",
+    "difficulty_level": "Beginner",
+    "description": "W3Schools offers a free SQL tutorial with references and exercises covering major SQL topics.",
+    "relevance": "W3Schools is a well-known resource for web development tutorials, making it a reliable and accessible option for beginners."
+  },
+  {
+    "source_link": "https://sqlpad.io/tutorial/advanced-sql/",
+    "content_type": "Tutorial",
+    "difficulty_level": "Advanced",
+    "description": "Explores essential advanced SQL techniques for data scientists, including CTEs and window functions.",
+    "relevance": "Focuses on advanced techniques relevant to data analysis, suitable for learners looking to expand their SQL skills beyond the basics."
+  },
+  {
+    "source_link": "https://www.freecodecamp.org/news/advanced-sql-techniques/",
+    "content_type": "Article",
+    "difficulty_level": "Advanced",
+    "description": "Covers advanced SQL techniques like window functions, CTEs, and recursive queries for complex data analysis.",
+    "relevance": "Provides practical examples of advanced SQL concepts, helping learners to perform complex data manipulations efficiently."
+  },
+  {
+    "source_link": "https://blog.devart.com/sql-database-design-basics-with-example.html",
+    "content_type": "Blog Post",
+    "difficulty_level": "Beginner",
+    "description": "Explains the basic concepts of database design with a vivid example of creating a database schema.",
+    "relevance": "Offers a practical introduction to SQL database design, suitable for beginners looking to understand the fundamentals of database structure."
+  }
+]
+```
+[2025-05-06 13:39:09] You: sql
+[2025-05-06 13:39:27] Bot: ```json
+[
+  {
+    "source_link": "https://www.w3schools.com/sql/",
+    "content_type": "Tutorial and Reference",
+    "difficulty_level": "Beginner",
+    "description": "Comprehensive SQL tutorial with examples, references, and exercises covering basic to advanced topics.",
+    "relevance": "Excellent for beginners due to its structured approach and hands-on examples. It covers all the fundamental concepts of SQL."
+  },
+  {
+    "source_link": "https://www.youtube.com/watch?v=OT1RErkfLNQ",
+    "content_type": "Video Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "A 4-hour video course that teaches SQL from beginner to advanced levels, covering topics suitable for data analytics.",
+    "relevance": "Good for visual learners. It provides a quick yet comprehensive overview of SQL, starting from the basics."
+  },
+  {
+    "source_link": "https://www.reddit.com/r/SQL/comments/11qe99b/best_way_to_learn_sql/",
+    "content_type": "Forum Discussion",
+    "difficulty_level": "Beginner",
+    "description": "A Reddit thread discussing the best ways to learn SQL, particularly for beginners. Recommends LearnSQL.com.",
+    "relevance": "Provides insights into different learning platforms and approaches recommended by the SQL community. Helpful for finding suitable interactive courses."
+  },
+  {
+    "source_link": "https://www.codecademy.com/learn/learn-sql",
+    "content_type": "Interactive Course",
+    "difficulty_level": "Beginner",
+    "description": "An interactive SQL course that teaches how to manage and analyze data using SQL.",
+    "relevance": "Ideal for beginners who prefer interactive learning. It provides a hands-on environment to practice SQL commands."
+  },
+  {
+    "source_link": "https://www.sqltutorial.org/",
+    "content_type": "Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "An SQL tutorial that guides beginners from scratch with practical examples and quizzes.",
+    "relevance": "Suitable for beginners who want to learn SQL through hands-on examples and quizzes to reinforce their understanding."
+  }
+]
+```
+[2025-05-06 13:46:13] You: exit
+[2025-05-06 13:46:13] Chatbot ended.
+[2025-05-06 19:13:13] Here we go.
+[2025-05-06 19:13:45] You: joining in sql
+[2025-05-06 19:14:02] Bot: ```json
+{
+  "resources": [
+    {
+      "source_link": "https://www.w3schools.com/sql/sql_join.asp",
+      "content_type": "tutorial and reference",
+      "difficulty_level": "beginner",
+      "description": "W3Schools SQL Join tutorial covers different types of SQL joins with examples and exercises.",
+      "relevance": "Good starting point for understanding basic SQL join syntax and concepts. Offers interactive examples."
+    },
+    {
+      "source_link": "https://datalemur.com/sql-tutorial/sql-joins-inner-outer-left-right",
+      "content_type": "tutorial",
+      "difficulty_level": "intermediate",
+      "description": "SQL JOINS Tutorial With Practice Exercises. Includes practical examples with a Spotify theme",
+      "relevance": "Good for learning about multiple tables"
+    },
+    {
+      "source_link": "https://learnsql.com/blog/sql-joins-made-easy/",
+      "content_type": "blog post/tutorial",
+      "difficulty_level": "beginner",
+      "description": "SQL JOINs for Beginners tutorial explaining how to connect data from multiple tables using different types of joins.",
+      "relevance": "Specifically designed for beginners, making it easy to understand the basics of SQL joins."
+    },
+    {
+      "source_link": "https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/",
+      "content_type": "article",
+      "difficulty_level": "intermediate",
+      "description": "GeeksforGeeks article explaining inner, left, right, and full joins with examples.",
+      "relevance": "Provides a comprehensive explanation of different SQL join types with detailed examples."
+    },
+    {
+      "source_link": "https://www.youtube.com/watch?v=0OQJDd3QqQM",
+      "content_type": "video tutorial",
+      "difficulty_level": "beginner",
+      "description": "SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS - Part 1",
+      "relevance": "For the visual learner. Explains INNER Join, LEFT Join and RIGHT Join."
+    },
+    {
+      "source_link": "https://mode.com/sql-tutorial/sql-joins/",
+      "content_type": "tutorial",
+      "difficulty_level": "intermediate",
+      "description": "This SQL Tutorial is an introduction to SQL joins and the relational logic behind them.",
+      "relevance": "Good for when you want to connect data in multiple data tables."
+    }
+  ]
+}
+```
+[2025-05-06 19:20:19] You: view in sql
+[2025-05-06 19:20:38] Bot: ```json
+[
+  {
+    "source_link": "https://www.w3schools.com/sql/sql_view.asp",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "This tutorial explains how to create, replace, and drop views in SQL. It covers the basic syntax and provides simple examples.",
+    "relevance": "This is a good starting point for beginners who want to learn the fundamentals of SQL views."
+  },
+  {
+    "source_link": "https://www.geeksforgeeks.org/sql-views/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "This article provides a comprehensive overview of SQL views, including their definition, purpose, and how they differ from regular tables. It covers creating, updating, and deleting views with examples.",
+    "relevance": "Suitable for learners who have some basic SQL knowledge and want a more in-depth understanding of views."
+  },
+  {
+    "source_link": "https://learn.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-ver16",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "Microsoft's documentation on SQL Server views. This resource provides detailed information on creating, altering, and deleting views, as well as discussing their properties and security considerations. Focuses on SQL Server implementation.",
+    "relevance": "Ideal for advanced users and database administrators working with SQL Server who need a thorough understanding of view implementation and management."
+  },
+  {
+    "source_link": "https://www.programiz.com/sql/views",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "This tutorial uses examples to explain SQL views, relating them to functions in programming for easier understanding. It covers creating, updating, and using views.",
+    "relevance": "Good for learners who prefer learning with examples and appreciate analogies to programming concepts."
+  },
+  {
+    "source_link": "https://www.tutorialspoint.com/sql/sql-using-views.htm",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "This resource explains how to use SQL views effectively in database management. It discusses the benefits and implementation of views with practical examples.",
+    "relevance": "Useful for beginners who want a practical understanding of how views can be used to simplify database management."
+  }
+]
+```
+[2025-05-06 19:21:24] You: views in sql
+[2025-05-06 19:21:46] Bot: ```json
+[
+  {
+    "source_link": "https://www.sqltutorial.org/sql-views/",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "This tutorial introduces SQL views and shows you how to create, modify, and delete views from the database.",
+    "relevance": "Good starting point for understanding the basics of SQL views."
+  },
+  {
+    "source_link": "https://www.geeksforgeeks.org/sql-views/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "SQL Views provides an efficient solution for simplifying complex queries, improving security, and presenting data in a more accessible format. Covers creation, management, and updating of views.",
+    "relevance": "Explains how views improve maintainability and performance. Good for understanding the benefits of views."
+  },
+  {
+    "source_link": "https://www.w3schools.com/sql/sql_view.asp",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "Covers SQL CREATE VIEW, REPLACE VIEW, and DROP VIEW statements. Explains that a view is a virtual table based on the result-set of an SQL statement.",
+    "relevance": "A practical guide that shows the basic SQL syntax for manipulating views."
+  },
+  {
+    "source_link": "https://www.programiz.com/sql/views",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "Explains SQL views with examples, describing them as a set of commands under one name, similar to functions in programming.",
+    "relevance": "Uses a relatable analogy to explain the concept of views, making it easier to grasp."
+  },
+  {
+    "source_link": "https://dotnettutorials.net/lesson/sql-server-views/",
+    "content_type": "tutorial",
+    "difficulty_level": "intermediate",
+    "description": "Describes views in SQL Server as compiled SQL queries, or virtual tables, and discusses indexed views.",
+    "relevance": "Focuses on SQL Server implementation and introduces the concept of indexed views."
+  },
+  {
+    "source_link": "https://learnsql.com/blog/different-types-of-views-sql-server/",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "Explores the different types of views available in SQL Server and demonstrates how to use them for more efficient queries.",
+    "relevance": "Suitable for those looking to deepen their knowledge of views in SQL Server."
+  },
+  {
+    "source_link": "https://www.simplilearn.com/tutorials/sql-tutorial/sql-view",
+    "content_type": "tutorial",
+    "difficulty_level": "intermediate",
+    "description": "Explains SQL views as virtual tables that store the result of a query, covering their advantages and types.",
+    "relevance": "Provides a comprehensive overview of SQL views, suitable for intermediate learners."
+  },
+  {
+    "source_link": "https://www.vertabelo.com/blog/creating-views-in-sql/",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "Explains how to create and use views in SQL, discussing their syntax and benefits.",
+    "relevance": "Good for beginners who want to understand the practical aspects of creating views."
+  },
+  {
+    "source_link": "https://www.datacamp.com/tutorial/sql-views",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "Teaches about SQL views, why to use them, and how to create them.",
+    "relevance": "A beginner-friendly resource for getting started with SQL views."
+  },
+  {
+    "source_link": "https://learn.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-ver16",
+    "content_type": "documentation",
+    "difficulty_level": "intermediate",
+    "description": "Microsoft's official documentation on SQL Server views, covering their features and usage.",
+    "relevance": "Provides authoritative information for SQL Server users."
+  }
+]
+```
+[2025-05-06 19:37:30] You: sql
+[2025-05-06 19:37:56] Bot: ```json
+[
+  {
+    "source_link": "https://www.w3schools.com/sql/",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "W3Schools SQL tutorial covers basic SQL syntax, commands, and database concepts. Includes examples and exercises.",
+    "relevance": "Suitable for beginners learning the fundamentals of SQL."
+  },
+  {
+    "source_link": "https://www.sqltutorial.org/",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "SQL Tutorial: Learn SQL from Scratch for Beginners. This SQL Tutorial helps you master SQL quickly and effectively through many hands-on and practical examples with quizzes.",
+    "relevance": "Good for beginners wanting hands-on experience."
+  },
+  {
+    "source_link": "https://www.youtube.com/watch?v=h0nxCDiD-zg",
+    "content_type": "video tutorial",
+    "difficulty_level": "beginner",
+    "description": "SQL Tutorial for Beginners. This tutorial provides a basic introduction to SQL concepts and syntax.",
+    "relevance": "Helpful for visual learners who prefer video format."
+  },
+  {
+    "source_link": "https://www.geeksforgeeks.org/sql-tutorial/",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "SQL Tutorial | GeeksforGeeks. In this detailed SQL tutorial for beginners, we'll explore practical SQL examples for managing employee data within a database.",
+    "relevance": "Detailed guide for beginners."
+  },
+  {
+    "source_link": "https://www.codecademy.com/learn/learn-sql",
+    "content_type": "course",
+    "difficulty_level": "beginner",
+    "description": "Learn SQL | Codecademy. In this SQL course, you'll learn how to manage large datasets and analyze real data using the standard data management language.",
+    "relevance": "Interactive course for learning SQL."
+  },
+  {
+    "source_link": "https://mode.com/sql-tutorial/intro-to-intermediate-sql/",
+    "content_type": "tutorial",
+    "difficulty_level": "intermediate",
+    "description": "Putting it together | Intermediate SQL - Mode. This tutorial bridges the gap between basic and advanced SQL, covering topics like subqueries and window functions.",
+    "relevance": "Suitable for learners who have grasped the basics and want to advance their SQL skills."
+  },
+  {
+    "source_link": "https://bipp.io/sql-tutorial/intermediate-sql/",
+    "content_type": "tutorial",
+    "difficulty_level": "intermediate",
+    "description": "Intermediate SQL Tutorial | SQL Tutorial for Data Analysis | bipp Analytics. Learn how to use SQL GROUP BY, Aggregate Functions in SQL, SQL Having Clauses that can help you get better answers from your database.",
+    "relevance": "Helps to take your SQL knowledge to the next level."
+  },
+  {
+    "source_link": "https://www.datacamp.com/courses/intermediate-sql",
+    "content_type": "course",
+    "difficulty_level": "intermediate",
+    "description": "Intermediate SQL Course | DataCamp. Accompanied at every step with hands-on practice queries, this course teaches you everything you need to know to analyze data using your own SQL code today!",
+    "relevance": "Intermediate course with hands-on practice."
+  },
+  {
+    "source_link": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL",
+    "content_type": "video tutorials",
+    "difficulty_level": "intermediate",
+    "description": "Intermediate SQL Tutorials - YouTube",
+    "relevance": "Video tutorials for intermediate learners"
+  },
+  {
+    "source_link": "https://airbyte.com/data-engineering-resources/advanced-sql-concepts",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "15 Advanced SQL Concepts With Examples (2025 Edition) | Airbyte. Through clear explanations and ... your data manipulation and analysis abilities. Advanced SQL refers to concepts and techniques beyond the foundational skills of querying data from relational databases....",
+    "relevance": "Covers advanced SQL concepts"
+  },
+  {
+    "source_link": "https://builtin.com/data-science/advanced-sql",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "10 Advanced SQL Concepts to Know (With Examples) | Built In. I hope that this helps you in your ... you the best in your learning endeavors! Advanced SQL refers to structured query language (SQL) techniques used for complex querying, data manipulation and data management....",
+    "relevance": "Explains techniques used for complex querying"
+  },
+  {
+    "source_link": "https://www.stratascratch.com/blog/advanced-sql-concepts-to-improve-your-and-code-s-performance/",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "Advanced SQL Concepts to Improve Your and Code’s Performance - StrataScratch. In this article, we’ll discuss advanced SQL concepts and their use cases. Then we’ll use them to answer interview questions from reputable employers.",
+    "relevance": "Explains advanced SQL concepts and their uses"
+  }
+]
+```
+[2025-05-06 19:40:43] You: exit
+[2025-05-06 19:40:43] Chatbot ended.
+[2025-05-06 19:42:19] Here we go.
+[2025-05-06 19:42:24] You: sql
+[2025-05-06 19:44:39] Here we go.
+[2025-05-06 19:44:43] You: sql
+[2025-05-06 19:48:48] Here we go.
+[2025-05-06 19:49:17] Here we go.
+[2025-05-06 19:50:22] Here we go.
+[2025-05-06 19:53:07] Here we go.
+[2025-05-06 20:06:06] You: sql
+[2025-05-06 20:11:27] Here we go.
+[2025-05-06 20:12:14] You: sql
+[2025-05-06 20:19:05] Here we go.
+[2025-05-06 20:19:10] You: sql
+[2025-05-06 20:21:48] Here we go.
+[2025-05-06 20:21:52] You: sql
+[2025-05-06 20:24:04] Here we go.
+[2025-05-06 20:24:10] You: sql
+[2025-05-06 20:44:10] Here we go.
+[2025-05-06 20:44:52] You: exit
+[2025-05-06 20:44:52] Chatbot ended.
+[2025-05-06 20:45:11] Here we go.
+[2025-05-06 20:45:16] You: sql
+[2025-05-06 20:46:00] Bot: 
+Title: SQLZoo
+Link: https://sqlzoo.net/
+Snippet: <strong>SQLZoo</strong> provides <strong>tutorials</strong> and exercises to help you learn <strong>SQL</strong>.
+---
+Title: Learn SQL - Free Interactive SQL Tutorial
+Link: https://www.learndsqlonline.org/
+Snippet: Learn <strong>SQL</strong> Online is a free interactive <strong>SQL</strong> <strong>tutorial</strong> that teaches you <strong>SQL</strong> from scratch. Learn <strong>SQL</strong> with interactive examples and a built-in <strong>SQL</strong> editor.
+---
+Title: SQL course - free online SQL tutorials | Alison
+Link: https://alison.com/topic/learn/1311/sql-course
+Snippet: Alison offers a wide range of free online <strong>SQL</strong> courses that will teach you how to use <strong>SQL</strong> to manage databases. Start your <strong>SQL</strong> training today!
+
+Thought: I have the search results and now I'm constructing the JSON response according to the instructions.
+
+```json
+[
+  {
+    "source_link": "https://www.sqltutorial.org/",
+    "content_type": "Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "This SQL Tutorial helps you master SQL quickly and effectively through many hands-on and practical examples with quizzes.",
+    "relevance": "Suitable for beginners looking for a hands-on approach with practical examples and quizzes."
+  },
+  {
+    "source_link": "https://www.geeksforgeeks.org/sql-tutorial/",
+    "content_type": "Tutorial",
+    "difficulty_level": "Beginner to Intermediate",
+    "description": "A comprehensive SQL tutorial covering various aspects of SQL, suitable for learners across different domains.",
+    "relevance": "Offers a wide range of topics, useful for both beginners and those looking to expand their knowledge."
+  },
+  {
+    "source_link": "https://www.w3schools.com/sql/",
+    "content_type": "Tutorial with Online Editor",
+    "difficulty_level": "Beginner",
+    "description": "SQL tutorial with an online SQL editor, allowing users to edit and view the results of SQL statements.",
+    "relevance": "Ideal for beginners who want to practice SQL with a built-in editor and check their knowledge with exercises."
+  },
+  {
+    "source_link": "https://www.tutorialspoint.com/sql/index.htm",
+    "content_type": "Tutorial",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "A comprehensive SQL tutorial covering basic queries to advanced database management techniques.",
+    "relevance": "Suitable for learners of all levels, from beginners to those looking for advanced techniques."
+  },
+  {
+    "source_link": "https://www.codecademy.com/learn/learn-sql",
+    "content_type": "Interactive Course",
+    "difficulty_level": "Beginner",
+    "description": "An SQL course that teaches how to manage large datasets and analyze real data using SQL.",
+    "relevance": "Suitable for beginners interested in data management and analysis with SQL."
+  }
+]
+```
+[2025-05-06 20:52:38] Here we go.
+[2025-05-06 20:53:52] You: exit
+[2025-05-06 20:53:52] Chatbot ended.
+[2025-05-06 20:54:15] Here we go.
+[2025-05-06 21:02:13] You: exit
+[2025-05-06 21:02:13] Chatbot ended.
+[2025-05-06 21:02:55] Here we go.
+[2025-05-06 21:04:09] You: exit
+[2025-05-06 21:04:09] Chatbot ended.
+[2025-05-06 21:04:30] Here we go.
+[2025-05-06 21:18:28] You: exit
+[2025-05-06 21:18:28] Chatbot ended.
+[2025-05-06 21:19:04] Here we go.
+[2025-05-06 21:21:04] You: exit
+[2025-05-06 21:21:04] Chatbot ended.
+[2025-05-06 21:21:39] Here we go.
+[2025-05-06 21:22:07] You: sql
+[2025-05-06 21:22:52] Bot: ```json
+[
+  {
+    "source_link": "https://rivery.io/blog/6-best-free-resources-for-learning-sql/",
+    "content_type": "Blog post/resource list",
+    "difficulty_level": "Beginner to Intermediate, also mentions an advanced resource",
+    "description": "A blog post listing several free resources for learning SQL, covering beginner and intermediate topics with video lessons. It mentions MIT Professor Philip Greenspun's 'SQL for Web Nerds' as an advanced resource.",
+    "relevance": "Provides a curated list of resources, catering to different learning styles, including visual learners. The mention of an advanced resource makes it useful for learners looking to progress further."
+  },
+  {
+    "source_link": "https://learnsql.com/blog/ultimate-resources-for-learning-sql/",
+    "content_type": "Blog post/resource list",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "A blog post recommending 'SQL From A to Z track on LearnSQL.com' as a comprehensive course suitable for beginners and those seeking to enhance their skills.",
+    "relevance": "Directly addresses learners of all skill levels and recommends a specific comprehensive course."
+  },
+  {
+    "source_link": "https://www.kdnuggets.com/top-5-free-resources-for-learning-advanced-sql-techniques",
+    "content_type": "Blog post/resource list",
+    "difficulty_level": "Advanced",
+    "description": "A blog post highlighting five free resources for learning advanced SQL techniques.",
+    "relevance": "Specifically targets learners interested in advanced SQL concepts and provides free learning options."
+  },
+  {
+    "source_link": "https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth",
+    "content_type": "Blog post",
+    "difficulty_level": "Any",
+    "description": "This article suggests SQLZoo or SQLFiddle as resources for practicing and improving SQL skills.",
+    "relevance": "Provides resources for practicing SQL, which is essential for reinforcing learned concepts at any level."
+  },
+  {
+    "source_link": "https://www.coursera.org/courses?query=sql",
+    "content_type": "MOOC Platform",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "Lists SQL courses on Coursera covering basic to advanced SQL commands for data management.",
+    "relevance": "Offers structured SQL courses with certificates, which can be beneficial for learners seeking formal education and validation of their skills."
+  }
+]
+```
+[2025-05-06 21:30:48] You: exit
+[2025-05-06 21:30:48] Chatbot ended.
+[2025-05-06 21:31:54] Here we go.
+[2025-05-06 21:32:02] You: sql
+[2025-05-06 22:27:48] Here we go.
+[2025-05-06 22:27:55] You: sql
+[2025-05-06 22:28:34] Bot: ```json
+{
+  "resources": [
+    {
+      "source_link": "https://www.w3schools.com/sql/default.asp",
+      "content_type": "Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "A well-organized SQL tutorial with examples covering how to use SQL for data manipulation in various database systems.",
+      "relevance": "Perfect for beginners, it covers the basics of SQL and data manipulation with practical examples."
+    },
+    {
+      "source_link": "https://sqlzoo.net/",
+      "content_type": "Tutorial and Reference",
+      "difficulty_level": "Beginner",
+      "description": "SQLZoo provides tutorials and reference material for SQL on MySQL, Oracle, PostgreSQL, SQL Server, and SQLite.",
+      "relevance": "Provides tutorials and practice for beginners."
+    },
+    {
+      "source_link": "https://learnsql.com/blog/ultimate-resources-for-learning-sql/",
+      "content_type": "Article",
+      "difficulty_level": "Beginner",
+      "description": "A list of 50 SQL learning resources, including SQL QuickStart Guide and SQL Practice Problems focusing on data manipulation.",
+      "relevance": "Provides a comprehensive list of resources including guides and practice problems suitable for beginners interested in data manipulation."
+    },
+    {
+      "source_link": "https://rivery.io/blog/6-best-free-resources-for-learning-sql/",
+      "content_type": "Article",
+      "difficulty_level": "Beginner",
+      "description": "A blog post listing the top 10 free resources, courses, and tutorials for mastering SQL and enhancing data skills.",
+      "relevance": "Offers a curated list of free resources that can help beginners master SQL and data manipulation."
+    },
+    {
+      "source_link": "https://estuary.dev/blog/best-free-sql-learning-resources/",
+      "content_type": "Article",
+      "difficulty_level": "Beginner",
+      "description": "A guide to the best free SQL learning resources, emphasizing beginner-friendliness and real-world relevance for data access and manipulation.",
+      "relevance": "Suitable for beginners, focusing on real-world applications of SQL for data manipulation."
+    },
+    {
+      "source_link": "https://medium.com/@theevergrowingdev/9-free-resources-to-learn-and-practice-sql-53666a3ec59e",
+      "content_type": "Article",
+      "difficulty_level": "Beginner",
+      "description": "9 free resources to learn and practice SQL, to gain the knowledge and skills to effectively work with databases, manipulate data, and make informed decisions.",
+      "relevance": "Whether you’re a beginner or already familiar with SQL, you’re sure to learn something new! By taking advantage of these free SQL resources, you can gain the knowledge and skills to effectively work with databases, manipulate data, and make informed decisions."
+    },
+        {
+      "source_link": "https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth",
+      "content_type": "Article",
+      "difficulty_level": "Beginner",
+      "description": "Practicing SQL online on sites like SQLZoo or SQLFiddle will help you keep up-to-date and improve your SQL skills.",
+      "relevance": "Suitable for beginners, it suggest to practice on websites like SQLZoo to help you keep up-to-date and improve your SQL skills."
+    }
+  ]
+}
+```
+[2025-05-06 22:38:33] You: exit
+[2025-05-06 22:38:33] Chatbot ended.
+[2025-05-06 22:38:58] Here we go.
+[2025-05-06 22:39:03] You: sql
+[2025-05-06 22:39:47] Bot: ```json
+{
+  "resources": [
+    {
+      "source_link": "https://www.w3schools.com/sql/",
+      "content_type": "Tutorial and Reference",
+      "difficulty_level": "Beginner",
+      "description": "W3Schools SQL tutorial offers comprehensive lessons, references, and exercises covering basic to advanced SQL concepts. Includes practical examples and a try-it-yourself editor.",
+      "relevance": "A great starting point for beginners due to its structured approach, clear explanations, and interactive examples. Covers a wide range of SQL topics."
+    },
+    {
+      "source_link": "https://www.sqltutorial.org/",
+      "content_type": "Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "SQLTutorial.org provides a tutorial to learn SQL from scratch with hands-on and practical examples with quizzes.",
+      "relevance": "This resource is specifically designed for beginners and uses a practical approach with exercises and quizzes to reinforce learning."
+    },
+    {
+      "source_link": "https://www.youtube.com/watch?v=h0nxCDiD-zg",
+      "content_type": "Video Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "A YouTube video tutorial that guides beginners through the fundamentals of SQL with easy-to-follow explanations.",
+      "relevance": "Ideal for visual learners, this video provides a step-by-step introduction to SQL concepts, making it easier to grasp the basics."
+    },
+    {
+      "source_link": "https://www.geeksforgeeks.org/sql-tutorial/",
+      "content_type": "Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "GeeksforGeeks SQL tutorial explores practical SQL examples for managing employee data within a database.",
+      "relevance": "Focuses on practical examples and real-world scenarios to help beginners understand how SQL is used in database management."
+    },
+    {
+      "source_link": "https://www.reddit.com/r/SQL/comments/11qe99b/best_way_to_learn_sql/",
+      "content_type": "Forum Discussion",
+      "difficulty_level": "Beginner",
+      "description": "A Reddit thread discussing the best ways to learn SQL, including recommendations for online tutorials, courses, and communities.",
+      "relevance": "Provides a curated list of resources and community insights from other learners and experts, useful for exploring different learning paths and getting advice."
+    }
+  ]
+}
+```
+[2025-05-06 23:29:12] You: exit
+[2025-05-06 23:29:12] Chatbot ended.
+[2025-05-06 23:29:58] Here we go.
+[2025-05-06 23:30:03] You: sql
+[2025-05-06 23:30:42] Bot: ```json
+[
+  {
+    "source_link": "https://www.w3schools.com/sql/",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "W3Schools SQL tutorial covers basic SQL syntax, data types, and common SQL commands with examples and exercises.",
+    "relevance": "A comprehensive tutorial suitable for beginners with interactive examples."
+  },
+  {
+    "source_link": "https://www.sqltutorial.org/",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "SQL Tutorial: Learn SQL from Scratch for Beginners. This SQL Tutorial helps you master SQL quickly and effectively through many hands-on and practical examples with quizzes.",
+    "relevance": "This tutorial focuses on learning SQL from scratch, making it ideal for complete beginners."
+  },
+  {
+    "source_link": "https://www.youtube.com/watch?v=h0nxCDiD-zg",
+    "content_type": "video tutorial",
+    "difficulty_level": "beginner",
+    "description": "SQL Tutorial for Beginners - A video tutorial covering SQL basics.",
+    "relevance": "Visual learners can benefit from this video tutorial that explains SQL concepts in a beginner-friendly way."
+  },
+  {
+    "source_link": "https://www.geeksforgeeks.org/sql-tutorial/",
+    "content_type": "tutorial",
+    "difficulty_level": "beginner",
+    "description": "SQL Tutorial | GeeksforGeeks. In this detailed SQL tutorial for beginners, we'll explore practical SQL examples for managing employee data within a database.",
+    "relevance": "Provides a detailed tutorial with practical examples, which is suitable for beginners looking to apply SQL concepts in real-world scenarios."
+  },
+  {
+    "source_link": "https://www.codecademy.com/learn/learn-sql",
+    "content_type": "MOOC",
+    "difficulty_level": "beginner",
+    "description": "Learn SQL | Codecademy. In this SQL course, you'll learn how to manage large datasets and analyze real data using the standard data management language.",
+    "relevance": "Codecademy's interactive course is a great way to learn SQL with hands-on exercises."
+  },
+  {
+    "source_link": "https://www.mooc-list.com/tags/sql",
+    "content_type": "MOOC list",
+    "difficulty_level": "beginner",
+    "description": "SQL MOOC and Free Online Courses | MOOC List. Find Free Online SQL Courses and MOOC Courses that are related to SQL",
+    "relevance": "Provides a list of MOOCs, useful for finding structured courses."
+  },
+  {
+    "source_link": "https://www.coursera.org/courses?query=sql",
+    "content_type": "MOOC",
+    "difficulty_level": "beginner",
+    "description": "Best SQL Courses & Certificates [2025] | Coursera Learn Online. Transform you career with Coursera's online SQL courses. Enroll for free, earn a certificate, and build job-ready skills on your schedule. Join today!",
+    "relevance": "Offers structured courses with certificates, suitable for learners aiming for formal recognition."
+  },
+  {
+    "source_link": "https://www.my-mooc.com/en/mooc/sql-server-course-for-beginners-with-100-examples/",
+    "content_type": "MOOC",
+    "difficulty_level": "beginner",
+    "description": "SQL Server Course for Beginners with 100+ examples | My Mooc",
+    "relevance": "A course specifically focused on SQL Server, ideal for those interested in Microsoft's database system."
+  }
+]
+```
+[2025-05-06 23:33:46] Here we go.
+[2025-05-06 23:33:58] You: join with sql
+[2025-05-06 23:34:51] Bot: ```json
+{
+  "resources": [
+    {
+      "source_link": "https://www.w3schools.com/sql/sql_join.asp",
+      "content_type": "tutorial",
+      "difficulty_level": "beginner",
+      "description": "W3Schools SQL joins tutorial. Covers different types of SQL joins with examples and exercises.",
+      "relevance": "Provides a comprehensive and interactive tutorial for beginners to understand SQL joins."
+    },
+    {
+      "source_link": "https://datalemur.com/sql-tutorial/sql-joins-inner-outer-left-right",
+      "content_type": "tutorial",
+      "difficulty_level": "beginner",
+      "description": "SQL JOINS Tutorial With Practice Exercises using Spotify data example.",
+      "relevance": "Provides a practical tutorial on SQL joins with real-world examples and practice exercises."
+    },
+    {
+      "source_link": "https://learnsql.com/blog/sql-joins-made-easy/",
+      "content_type": "tutorial",
+      "difficulty_level": "beginner",
+      "description": "A beginner-friendly tutorial explaining how to connect data from multiple tables using SQL JOINs.",
+      "relevance": "Specifically designed for beginners, this tutorial provides a clear and easy-to-understand explanation of SQL joins."
+    },
+    {
+      "source_link": "https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/",
+      "content_type": "article",
+      "difficulty_level": "intermediate",
+      "description": "An article explaining different types of SQL joins (Inner, Left, Right, and Full Join) with examples.",
+      "relevance": "Covers various types of SQL joins, useful for learners who want to expand their knowledge beyond the basics."
+    },
+    {
+      "source_link": "https://learn.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-ver16",
+      "content_type": "documentation",
+      "difficulty_level": "advanced",
+      "description": "Microsoft SQL Server documentation on join operations and vertical table partitioning.",
+      "relevance": "Provides in-depth information on SQL Server's join operations, suitable for advanced learners."
+    },
+    {
+      "source_link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/joins-in-sql-1",
+      "content_type": "MOOC",
+      "difficulty_level": "beginner",
+      "description": "Free online course on Joins in SQL, taught hands-on by experts. Includes certificate upon completion.",
+      "relevance": "Offers a structured learning experience with hands-on training and certification, ideal for beginners."
+    },
+     {
+      "source_link": "https://learnsql.com/blog/learn-and-practice-sql-joins/",
+      "content_type": "blog post",
+      "difficulty_level": "beginner",
+      "description": "Discusses how to learn and practice SQL JOINs, recommending the SQL Basics course and its sections on JOINs.",
+      "relevance": "Provides guidance on where to start learning SQL joins and recommends specific resources for beginners."
+    },
+    {
+      "source_link": "https://learnsql.com/blog/sql-joins-complete-guide/",
+      "content_type": "article",
+      "difficulty_level": "beginner",
+      "description": "A complete guide to SQL JOINs with resources, tutorials, and courses for beginners and experienced users.",
+      "relevance": "Offers a comprehensive overview of SQL joins with curated resources suitable for various skill levels."
+    }
+  ]
+}
+```
+[2025-05-06 23:43:48] You: sql
+[2025-05-06 23:44:31] Bot: ```json
+[
+  {
+    "source_link": "https://rivery.io/blog/6-best-free-resources-for-learning-sql/",
+    "content_type": "Article",
+    "difficulty_level": "Beginner",
+    "description": "A blog post listing 10 free resources, courses, and tutorials for learning SQL and enhancing data skills.",
+    "relevance": "Suitable for beginners looking for a variety of free resources to start learning SQL for data analysis."
+  },
+  {
+    "source_link": "https://www.quora.com/What-are-the-best-resources-to-learn-SQL-for-data-analysis",
+    "content_type": "Forum",
+    "difficulty_level": "Beginner",
+    "description": "A Quora thread discussing the best resources to learn SQL for data analysis, mentioning DataCamp's SQL course.",
+    "relevance": "Provides opinions and recommendations from multiple users regarding useful SQL resources, especially for data analysis."
+  },
+  {
+    "source_link": "https://www.udacity.com/course/sql-for-data-analysis--ud198",
+    "content_type": "MOOC",
+    "difficulty_level": "Intermediate",
+    "description": "A Udacity course teaching how to execute core SQL commands for data manipulation, aggregation, and joining data tables. Also covers subqueries and window functions.",
+    "relevance": "Relevant for learners who want to go beyond the basics and learn more advanced SQL techniques for data analysis."
+  },
+  {
+    "source_link": "https://www.coursera.org/learn/sql-for-data-science",
+    "content_type": "MOOC",
+    "difficulty_level": "Beginner",
+    "description": "A Coursera course focusing on SQL for data science offered by the University of California, Davis.",
+    "relevance": "Directly relevant for learners interested in applying SQL skills to data science."
+  },
+  {
+    "source_link": "https://datalemur.com/sql-tutorial",
+    "content_type": "Tutorial",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "A free SQL tutorial for data analysts and data scientists that prepares learners for FAANG SQL interviews.",
+    "relevance": "Ideal for learners who want to gain practical SQL skills for data analysis and potentially prepare for job interviews."
+  },
+    {
+    "source_link": "https://datalemur.com/sql-tutorial/intro-to-sql",
+    "content_type": "Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "An introductory SQL tutorial that teaches users how to think like a data scientist and work through real-world data workflows.",
+    "relevance": "Great resource for absolute beginners looking to understand SQL within a data science context, featuring a full Instacart SQL Data Analytics case study."
+  },
+  {
+    "source_link": "https://www.codecademy.com/learn/learn-sql",
+    "content_type": "Interactive Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "Codecademy's interactive SQL course focusing on building fluency in SQL manipulation and creating tables. It includes practice with common queries and analyzing Hacker News data.",
+    "relevance": "An interactive approach is helpful for learners who prefer hands-on experience. It covers creating tables and querying, making it relevant for database management and data retrieval."
+  },
+  {
+    "source_link": "https://www.kdnuggets.com/5-free-sql-courses-for-data-science-beginners",
+    "content_type": "Article",
+    "difficulty_level": "Beginner",
+    "description": "A KDnuggets article listing 5 free SQL courses designed for data science beginners. Includes a SQL Tutorial by W3Schools.",
+    "relevance": "Excellent for beginners; provides a curated list of free courses suitable for building a foundation in SQL for data science."
+  },
+  {
+    "source_link": "https://www.datacamp.com/courses/intro-to-sql-for-data-science",
+    "content_type": "MOOC",
+    "difficulty_level": "Beginner",
+    "description": "Datacamp course designed to teach SQL for data science. The course is geared towards enabling students to extract and analyze data from databases.",
+    "relevance": "This MOOC will help aspiring data scientists and analysts to extract and analyze data using SQL"
+  },
+  {
+   "source_link": "https://learnsql.com/",
+   "content_type": "Interactive Tutorial",
+   "difficulty_level": "Beginner",
+   "description": "An interactive SQL course that has 90+ hands-on exercies to help you become an SQL expert",
+   "relevance": "The interactive nature of this course can help beginners master SQL"
+  }
+]
+```
+[2025-05-06 23:47:47] Here we go.
+[2025-05-06 23:48:06] You: sql
+[2025-05-06 23:48:41] Bot: ```json
+{
+  "resources": [
+    {
+      "source_link": "https://mode.com/sql-tutorial/introduction-to-sql/",
+      "content_type": "Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "An SQL tutorial designed for individuals who want to use data to answer questions. It introduces SQL concepts in a way that's easy to understand and apply to data analysis problems.",
+      "relevance": "Perfect for a beginner interested in data analysis, as it focuses on using SQL to solve real-world problems."
+    },
+    {
+      "source_link": "https://datalemur.com/sql-tutorial",
+      "content_type": "Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "A free SQL tutorial for data analysts and data scientists. It covers enough SQL to pass FAANG SQL interviews and doesn't require prior coding experience.",
+      "relevance": "Suitable for beginners, especially those interested in data science or data analysis careers."
+    },
+    {
+      "source_link": "https://datalemur.com/sql-tutorial/intro-to-sql",
+      "content_type": "Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "SQL Tutorial for Data Science with basic lessons for SQL newbies, who might have used Excel but don't have formal coding experience. The intermediate SQL lesons are meant for those who have played around with SQL, but want to become productive at SQL.",
+      "relevance": "This looks like a great resource for beginners that are trying to transition from Excel to SQL."
+    },
+    {
+      "source_link": "https://www.geeksforgeeks.org/sql-tutorial/",
+      "content_type": "Tutorial",
+      "difficulty_level": "Beginner",
+      "description": "A comprehensive SQL tutorial covering various SQL concepts, from basic to advanced. It includes explanations of SQL functions for data analysis and other related topics.",
+      "relevance": "Suitable for gaining a broad understanding of SQL, including its application in data analysis, although it seems more general than the other two."
+    }
+  ]
+}
+```
+[2025-05-06 23:52:21] You: sql
+[2025-05-06 23:52:53] Bot: ```json
+[
+  {
+    "source_link": "https://rivery.io/blog/6-best-free-resources-for-learning-sql/",
+    "content_type": "Article",
+    "difficulty_level": "Beginner",
+    "description": "A list of top free resources, courses, and tutorials for mastering SQL.",
+    "relevance": "Provides a curated list of free resources, which is ideal for learners starting from scratch. Covers various learning styles."
+  },
+  {
+    "source_link": "https://www.my-mooc.com/en/video/mysql-tutorial-for-beginners-full-course",
+    "content_type": "Video Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "A MySQL tutorial for beginners, covering the basics of the world's most popular open-source database.",
+    "relevance": "Focuses on MySQL, a popular SQL dialect. Video format caters to visual learners. Covers fundamental concepts."
+  },
+  {
+    "source_link": "https://www.mltut.com/best-resources-to-learn-sql/",
+    "content_type": "Article",
+    "difficulty_level": "Beginner",
+    "description": "A comprehensive list of resources including online courses, tutorials, and more to learn SQL.",
+    "relevance": "Aggregates a wide array of learning resources, allowing the learner to pick and choose based on their preferences."
+  },
+  {
+    "source_link": "https://www.coursera.org/courses?query=sql",
+    "content_type": "MOOC",
+    "difficulty_level": "Beginner to Intermediate",
+    "description": "A selection of SQL courses and certificates available on Coursera, covering various aspects of database management and querying.",
+    "relevance": "Provides structured learning paths with certificates, beneficial for learners seeking formal recognition. Offers courses for different skill levels."
+  },
+  {
+    "source_link": "https://datalemur.com/sql-tutorial",
+    "content_type": "Tutorial",
+    "difficulty_level": "Beginner to Intermediate",
+    "description": "An SQL tutorial geared towards data analysts and data scientists, focusing on practical skills for interviews and job applications.",
+    "relevance": "Focuses on practical SQL skills relevant to data analysis, a common application of SQL. Suitable for learners aiming for a career in data science."
+  },
+  {
+    "source_link": "https://mode.com/sql-tutorial/advanced-sql/",
+    "content_type": "Tutorial",
+    "difficulty_level": "Advanced",
+    "description": "An advanced SQL tutorial covering window functions, common table expressions (CTEs), and advanced aggregation techniques.",
+    "relevance": "Covers advanced SQL concepts for learners who have grasped the basics and want to enhance their skills."
+  },
+    {
+    "source_link": "https://www.codecademy.com/learn/learn-sql/modules/learn-sql-advanced-sql",
+    "content_type": "Tutorial",
+    "difficulty_level": "Intermediate to Advanced",
+    "description": "Learn Advanced SQL. Learn about more complicated data management techniques, including multi-table queries and subqueries.",
+    "relevance": "Covers advanced SQL concepts for learners who have grasped the basics and want to enhance their skills."
+  },
+  {
+    "source_link": "https://www.my-mooc.com/en/video/sql-advanced-tutorial-advanced-sql-tutorial-with-examples-sql-for-beginners-simplilearn",
+    "content_type": "Video Tutorial",
+    "difficulty_level": "Advanced",
+    "description": "This video on SQL Advanced Tutorial will help you learn the important advanced SQL queries for performing complex operations.",
+    "relevance": "Covers advanced SQL concepts with practical examples."
+  }
+]
+```
+[2025-05-06 23:53:28] You: exit
+[2025-05-06 23:53:28] Chatbot ended.
+[2025-05-06 23:54:44] Here we go.
+[2025-05-06 23:55:07] You: how to create views with sql
+[2025-05-06 23:55:08] Bot: Ressources similaires trouvées
+[2025-05-06 23:56:15] You: how to join tables with sql
+[2025-05-06 23:56:15] Bot: Ressources similaires trouvées
+[2025-05-06 23:57:21] You: how to create tables
+[2025-05-06 23:57:22] Bot: Ressources similaires trouvées
+[2025-05-06 23:57:48] You: how to handle classes in python
+[2025-05-06 23:57:48] Bot: Ressources similaires trouvées
+[2025-05-06 23:57:57] You: python
+[2025-05-06 23:57:57] Bot: Ressources similaires trouvées
+[2025-05-07 00:00:18] You: views in sql
+[2025-05-07 00:00:19] Bot: Ressources similaires trouvées
+[2025-05-07 00:00:25] You: python
+[2025-05-07 00:00:25] Bot: Ressources similaires trouvées
+[2025-05-07 00:03:18] You: python
+[2025-05-07 00:03:18] Bot: Ressources similaires trouvées
+[2025-05-07 01:02:22] You: exit
+[2025-05-07 01:02:22] Chatbot ended.
+[2025-05-07 01:02:56] Here we go.
+[2025-05-07 01:03:07] You: python
+[2025-05-07 01:03:53] Bot: ```json
+[
+  {
+    "source_link": "https://www.python.org/about/gettingstarted/",
+    "content_type": "Website",
+    "difficulty_level": "Beginner",
+    "description": "The official Python website's getting started guide. It offers a curated list of tutorials suitable for experienced programmers and resources in multiple languages.",
+    "relevance": "This is a great starting point as it's the official resource and provides a broad overview with links to various learning materials."
+  },
+  {
+    "source_link": "https://www.codecademy.com/learn/learn-python-3",
+    "content_type": "Interactive Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "Codecademy's interactive Python 3 course. It provides hands-on coding exercises and immediate feedback.",
+    "relevance": "Interactive learning is highly effective for beginners, allowing them to practice and reinforce their understanding of Python concepts."
+  },
+  {
+    "source_link": "https://realpython.com/",
+    "content_type": "Website/Tutorials",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "Real Python offers a vast library of Python tutorials, covering topics from basic syntax to advanced concepts. It includes articles, videos, and quizzes.",
+    "relevance": "Real Python is a comprehensive resource suitable for learners of all levels. Its structured approach and high-quality content make it an excellent choice for in-depth learning."
+  },
+  {
+    "source_link": "https://www.coursera.org/specializations/python-3-programming",
+    "content_type": "MOOC",
+    "difficulty_level": "Beginner",
+    "description": "Coursera's Python 3 Programming Specialization offered by the University of Michigan. This specialization covers fundamental programming concepts and Python syntax.",
+    "relevance": "A structured MOOC provides a guided learning path with assignments and assessments, ideal for learners who prefer a more formal educational experience."
+  },
+  {
+    "source_link": "https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2",
+    "content_type": "Video Tutorial",
+    "difficulty_level": "Advanced",
+    "description": "A complete course on advanced python concepts.",
+    "relevance": "This is useful for people who wants to take their python skills to the next level."
+  }
+]
+```
+[2025-05-07 01:06:08] You: exitt
+[2025-05-07 01:08:48] Here we go.
+[2025-05-07 01:09:11] You: how to join tables with sql
+[2025-05-07 01:10:07] Bot: ```json
+[
+  {
+    "source_link": "https://learnsql.com/blog/sql-joins-made-easy/",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "A beginner-friendly tutorial explaining how to connect data from multiple tables using SQL JOINs.",
+    "relevance": "Suitable for learners new to SQL who need a basic understanding of JOIN operations."
+  },
+  {
+    "source_link": "https://www.dataquest.io/blog/sql-joins/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "A tutorial that covers inner, left, right, and outer joins while analyzing CIA factbook data.",
+    "relevance": "Helpful for learners who want to understand different types of JOINs with practical examples."
+  },
+  {
+    "source_link": "https://www.guru99.com/sql-server-joins.html",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "A tutorial explaining the different types of SQL Server JOINs with examples including INNER JOIN, LEFT OUTER JOIN, RIGHT OUTER JOIN, and FULL OUTER JOIN.",
+    "relevance": "Useful for those working with SQL Server and needing a clear explanation of different JOIN types."
+  },
+  {
+    "source_link": "https://www.sqlcourse.com/advanced-course/table-joins/",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "An advanced tutorial focusing on complex table joins in SQL.",
+    "relevance": "Appropriate for learners with some SQL experience who want to delve into more complex JOIN scenarios."
+  },
+  {
+    "source_link": "https://www.itprotoday.com/sql-server/advanced-join-techniques",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "Explains advanced JOIN techniques such as nested loops, merge joins, and hash joins to optimize query performance.",
+    "relevance": "Ideal for experienced SQL users looking to understand JOIN strategies and improve query efficiency."
+  },
+  {
+    "source_link": "https://medium.com/sqlgate/sql-basic-lets-learn-some-advanced-join-queries-80e63b6d6250",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "Expands on basic JOIN knowledge and combines multiple tables to filter and view useful information.",
+    "relevance": "Suitable for learners who have a basic understanding of JOINs and want to explore more complex queries."
+  },
+  {
+    "source_link": "https://www.c-sharpcorner.com/article/advanced-joins-in-sql-server-2017/",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "Explores advanced join techniques in SQL Server 2017, including inner, outer, cross, and self joins, and discusses query optimization.",
+    "relevance": "Designed for SQL Server users who want to master advanced JOIN concepts and optimize database queries."
+  },
+  {
+    "source_link": "https://m.youtube.com/watch?v=9yY1Oq-GCWk",
+    "content_type": "video",
+    "difficulty_level": "beginner",
+    "description": "A video tutorial explaining SQL JOINs (inner join, left join, right join, and full outer join) using Venn Diagrams.",
+    "relevance": "Good for visual learners who prefer video content and want a clear explanation of different JOIN types."
+  },
+  {
+    "source_link": "https://www.dotnettutorials.net/sql/sql-join.html",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "Explains different types of SQL JOIN statements with examples, focusing on querying data from two or more related tables.",
+    "relevance": "Useful for those who need practical examples of how to use SQL JOIN to fetch data from multiple tables."
+  }
+]
+```
+[2025-05-07 01:12:57] You: joining tables with sql
+[2025-05-07 01:12:59] Bot: Ressources similaires trouvées
+[2025-05-07 01:13:35] You: master python
+[2025-05-07 01:14:23] Bot: ```json
+{
+    "resources": [
+        {
+            "source_link": "https://wiki.python.org/moin/BeginnersGuide/Programmers",
+            "content_type": "Wiki page with links to resources",
+            "difficulty_level": "Beginner",
+            "description": "A guide for programmers with resources for learning Python, including 'A Byte of Python' and 'Awesome Python'.",
+            "relevance": "Provides a curated list of resources suitable for beginners and experienced programmers alike."
+        },
+        {
+            "source_link": "https://learnpython.com/blog/beginner-learning-python-resources/",
+            "content_type": "Blog article",
+            "difficulty_level": "Beginner",
+            "description": "An article discussing the best resources to start learning Python.",
+            "relevance": "Directly addresses the need for beginner-friendly Python learning resources."
+        },
+        {
+            "source_link": "https://discuss.python.org/t/learning-resources-for-beginners/52062",
+            "content_type": "Forum discussion",
+            "difficulty_level": "Beginner",
+            "description": "A discussion thread about learning resources for beginners, mentioning resources like FreeCodeCamp and 'Python Crash Course'.",
+            "relevance": "Provides community recommendations and insights into effective learning paths for beginners."
+        },
+        {
+            "source_link": "https://www.python.org/about/gettingstarted/",
+            "content_type": "Official Python website section",
+            "difficulty_level": "Beginner",
+            "description": "The official Python website's 'Getting Started' page.",
+            "relevance": "Offers fundamental information and resources directly from the source for beginners."
+        },
+        {
+            "source_link": "https://www.quora.com/Whats-the-best-resources-website-for-a-beginner-to-learn-Python-symbols",
+            "content_type": "Q&A Website",
+            "difficulty_level": "Beginner",
+            "description": "A Quora question asking about the best resources for learning Python symbols, with answers suggesting resources like Programming Hub and Coursera.",
+            "relevance": "Suggests app-based learning and online courses as options for learning Python, specifically focusing on Python symbols which can be crucial for beginners."
+        }
+    ]
+}
+```
+[2025-05-07 01:17:53] You: 
+[2025-05-07 01:18:31] Bot: ```json
+[
+  {
+    "source_link": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+    "content_type": "Video Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "Full Python course for beginners covering all core concepts in Python. Suitable for individuals with no prior programming experience.",
+    "relevance": "This is a comprehensive video tutorial specifically designed for beginners, matching the learner's level and preferred learning style."
+  },
+  {
+    "source_link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+    "content_type": "Video Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "Python tutorial for beginners aimed at career paths in machine learning, data science, and web development.",
+    "relevance": "Offers a beginner-friendly introduction to Python with a focus on in-demand applications, aligning with potential career interests."
+  },
+  {
+    "source_link": "https://learnpython.org/",
+    "content_type": "Interactive Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "Free interactive Python tutorial for people who want to learn Python quickly.",
+    "relevance": "This resource offers interactive exercises that cater to the learner's preference for hands-on learning, making it a suitable choice for beginners."
+  },
+  {
+    "source_link": "https://futurecoder.io/",
+    "content_type": "Interactive Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "100% free and interactive Python course for beginners.",
+    "relevance": "An entirely free interactive course, perfectly suited for beginners looking for a comprehensive and engaging way to learn Python from scratch."
+  },
+  {
+    "source_link": "https://scrimba.com/learn/python",
+    "content_type": "Interactive Tutorial",
+    "difficulty_level": "Beginner",
+    "description": "Interactive Python tutorial with a mix of tutorials and coding challenges. It has 58 parts.",
+    "relevance": "This resource offers a blend of tutorials and interactive coding challenges, which fits the learner's preference for interactive learning and is suitable for beginners."
+  }
+]
+```
+[2025-05-07 01:20:21] You: exit
+[2025-05-07 01:20:21] Chatbot ended.
+[2025-05-07 01:21:42] Here we go.
+[2025-05-07 01:22:58] Here we go.
+[2025-05-07 01:23:18] You: how to join tables with sql
+[2025-05-07 01:23:57] Bot: ```json
+[
+  {
+    "source_link": "https://www.w3schools.com/sql/sql_join_inner.asp",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "This article from W3Schools explains SQL INNER JOINs with clear examples and syntax. It focuses on retrieving records that have matching values in both tables.",
+    "relevance": "Suitable for beginners who need a basic understanding of INNER JOINs. The simple examples and clear explanations make it easy to grasp the fundamental concepts."
+  },
+  {
+    "source_link": "https://www.w3schools.com/sql/sql_join.asp",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "This W3Schools article provides an overview of different SQL JOIN types (INNER, LEFT, RIGHT, FULL OUTER). It briefly explains each type with syntax and examples.",
+    "relevance": "Good starting point for beginners to get an overview of all the different types of SQL joins and understand their basic functionality."
+  },
+  {
+    "source_link": "https://www.simplilearn.com/tutorials/sql-tutorial/join-in-sql",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "This Simplilearn tutorial explains how to combine tables using joins in SQL, covering different join categories like Inner Join and Self Join.",
+    "relevance": "Beneficial for learners aiming to broaden their knowledge of SQL joins, especially self joins, beyond basic concepts."
+  },
+  {
+    "source_link": "https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "A detailed article on GeeksforGeeks explaining SQL joins (INNER, LEFT, RIGHT, and FULL JOIN) with a focus on efficient data retrieval.",
+    "relevance": "Useful for learners who want a more in-depth understanding of different SQL join types, as well as how joins contribute to efficient data retrieval and complex queries."
+  },
+  {
+    "source_link": "https://learn.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-ver16",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "Microsoft Learn's article discusses SQL joins within the context of SQL Server, focusing on performance considerations and syntax details for INNER, OUTER, and CROSS joins. It also explains how join conditions are expressed in Transact-SQL.",
+    "relevance": "This resource is best for advanced learners and professionals who are working with SQL Server and need to understand the nuances of join implementation and performance optimization within that specific database environment."
+  }
+]
+```
+[2025-05-07 01:25:55] You: joining tables with sql
+[2025-05-07 01:25:56] Bot: Ressources similaires trouvées
+[2025-05-07 01:26:21] You: how to master python
+[2025-05-07 01:27:12] Bot: ```json
+[
+  {
+    "source_link": "https://www.udemy.com/topic/python/",
+    "content_type": "Online Course Platform",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "Udemy offers a wide range of Python courses for all skill levels, from beginner-friendly introductions to advanced topics. Courses are taught by real-world experts and cover various aspects of Python development.",
+    "relevance": "Suitable for learners of all levels. Beginners can start with introductory courses, while more experienced programmers can explore advanced topics like data science, web development, and machine learning."
+  },
+  {
+    "source_link": "https://www.codecademy.com/catalog/language/python",
+    "content_type": "Interactive Tutorials",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "Codecademy provides interactive Python courses and tutorials that allow learners to practice coding while they learn. The platform covers basic to advanced Python projects, ensuring a comprehensive learning experience.",
+    "relevance": "Ideal for learners who prefer a hands-on, interactive approach. The platform's structured learning paths help guide learners through different Python concepts and projects."
+  },
+  {
+    "source_link": "https://www.coursera.org/courses?query=python",
+    "content_type": "MOOCs (Massive Open Online Courses)",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "Coursera offers Python courses from top universities and institutions. Learners can enroll for free, earn certificates, and develop job-ready skills. The courses cover a wide range of Python-related topics, including data science, machine learning, and web development.",
+    "relevance": "Great for learners who want a structured, university-level learning experience. Coursera's courses often include video lectures, assignments, and discussion forums, providing a comprehensive learning environment."
+  },
+  {
+    "source_link": "https://www.edx.org/learn/python",
+    "content_type": "Online Courses",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "edX provides Python courses from various universities and institutions, offering a wide range of learning opportunities. Learners can start with introductory courses and progress to more advanced topics as their skills develop.",
+    "relevance": "Suitable for learners who want access to university-level education in Python. edX courses often include video lectures, interactive exercises, and assessments."
+  },
+  {
+    "source_link": "https://www.geeksforgeeks.org/best-python-courses/",
+    "content_type": "Article/List of Courses",
+    "difficulty_level": "Beginner to Advanced",
+    "description": "GeeksforGeeks offers a list of the best Python courses available online, catering to different skill levels and learning preferences. The article provides an overview of each course, highlighting its key features and benefits.",
+    "relevance": "Useful for learners who want a curated list of top-rated Python courses. The article helps learners compare different options and choose the course that best suits their needs."
+  },
+  {
+    "source_link": "https://realpython.com/tutorials/advanced/",
+    "content_type": "Tutorials",
+    "difficulty_level": "Advanced",
+    "description": "Real Python offers advanced Python tutorials to help learners master the language. These tutorials cover topics such as decorators, metaclasses, and concurrency, equipping learners with the skills needed for professional Python development.",
+    "relevance": "Ideal for experienced Python programmers looking to deepen their understanding of advanced concepts and techniques."
+  },
+  {
+    "source_link": "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+    "content_type": "Tutorials",
+    "difficulty_level": "Advanced",
+    "description": "GeeksforGeeks provides advanced Python tutorials covering topics like data structures, algorithms, and design patterns. These tutorials aim to enhance learners' problem-solving skills and prepare them for advanced programming challenges.",
+    "relevance": "Suitable for learners who want to improve their advanced programming skills. The tutorials cover a wide range of topics with clear explanations and examples."
+  },
+  {
+    "source_link": "https://python-course.eu/advanced-python/",
+    "content_type": "Tutorial",
+    "difficulty_level": "Advanced",
+    "description": "Python-Course.eu offers an introduction to advanced Python programming, suitable for those with prior Python experience. The tutorial covers topics such as iterators, generators, and decorators, providing a gentle introduction to these concepts.",
+    "relevance": "A good resource for intermediate programmers transitioning to advanced Python. The tutorials are designed to be easy to understand and provide a solid foundation in advanced concepts."
+  },
+  {
+    "source_link": "https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2",
+    "content_type": "Video Course",
+    "difficulty_level": "Advanced",
+    "description": "A complete video course on Advanced Python topics. This playlist contains videos covering more in-depth and complex concepts in Python programming.",
+    "relevance": "Great for visual learners who prefer watching video content. The course can cover a variety of advanced topics in a more digestible manner."
+  }
+]
+```
+[2025-05-07 01:29:35] You: exit
+[2025-05-07 01:29:35] Chatbot ended.

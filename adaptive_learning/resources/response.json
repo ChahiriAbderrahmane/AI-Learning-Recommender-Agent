@@ -1,0 +1,65 @@
+[
+    {
+        "source_link": "https://www.udemy.com/topic/python/",
+        "content_type": "Online Course Platform",
+        "difficulty_level": "Beginner to Advanced",
+        "description": "Udemy offers a wide range of Python courses for all skill levels, from beginner-friendly introductions to advanced topics. Courses are taught by real-world experts and cover various aspects of Python development.",
+        "relevance": "Suitable for learners of all levels. Beginners can start with introductory courses, while more experienced programmers can explore advanced topics like data science, web development, and machine learning."
+    },
+    {
+        "source_link": "https://www.codecademy.com/catalog/language/python",
+        "content_type": "Interactive Tutorials",
+        "difficulty_level": "Beginner to Advanced",
+        "description": "Codecademy provides interactive Python courses and tutorials that allow learners to practice coding while they learn. The platform covers basic to advanced Python projects, ensuring a comprehensive learning experience.",
+        "relevance": "Ideal for learners who prefer a hands-on, interactive approach. The platform's structured learning paths help guide learners through different Python concepts and projects."
+    },
+    {
+        "source_link": "https://www.coursera.org/courses?query=python",
+        "content_type": "MOOCs (Massive Open Online Courses)",
+        "difficulty_level": "Beginner to Advanced",
+        "description": "Coursera offers Python courses from top universities and institutions. Learners can enroll for free, earn certificates, and develop job-ready skills. The courses cover a wide range of Python-related topics, including data science, machine learning, and web development.",
+        "relevance": "Great for learners who want a structured, university-level learning experience. Coursera's courses often include video lectures, assignments, and discussion forums, providing a comprehensive learning environment."
+    },
+    {
+        "source_link": "https://www.edx.org/learn/python",
+        "content_type": "Online Courses",
+        "difficulty_level": "Beginner to Advanced",
+        "description": "edX provides Python courses from various universities and institutions, offering a wide range of learning opportunities. Learners can start with introductory courses and progress to more advanced topics as their skills develop.",
+        "relevance": "Suitable for learners who want access to university-level education in Python. edX courses often include video lectures, interactive exercises, and assessments."
+    },
+    {
+        "source_link": "https://www.geeksforgeeks.org/best-python-courses/",
+        "content_type": "Article/List of Courses",
+        "difficulty_level": "Beginner to Advanced",
+        "description": "GeeksforGeeks offers a list of the best Python courses available online, catering to different skill levels and learning preferences. The article provides an overview of each course, highlighting its key features and benefits.",
+        "relevance": "Useful for learners who want a curated list of top-rated Python courses. The article helps learners compare different options and choose the course that best suits their needs."
+    },
+    {
+        "source_link": "https://realpython.com/tutorials/advanced/",
+        "content_type": "Tutorials",
+        "difficulty_level": "Advanced",
+        "description": "Real Python offers advanced Python tutorials to help learners master the language. These tutorials cover topics such as decorators, metaclasses, and concurrency, equipping learners with the skills needed for professional Python development.",
+        "relevance": "Ideal for experienced Python programmers looking to deepen their understanding of advanced concepts and techniques."
+    },
+    {
+        "source_link": "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+        "content_type": "Tutorials",
+        "difficulty_level": "Advanced",
+        "description": "GeeksforGeeks provides advanced Python tutorials covering topics like data structures, algorithms, and design patterns. These tutorials aim to enhance learners' problem-solving skills and prepare them for advanced programming challenges.",
+        "relevance": "Suitable for learners who want to improve their advanced programming skills. The tutorials cover a wide range of topics with clear explanations and examples."
+    },
+    {
+        "source_link": "https://python-course.eu/advanced-python/",
+        "content_type": "Tutorial",
+        "difficulty_level": "Advanced",
+        "description": "Python-Course.eu offers an introduction to advanced Python programming, suitable for those with prior Python experience. The tutorial covers topics such as iterators, generators, and decorators, providing a gentle introduction to these concepts.",
+        "relevance": "A good resource for intermediate programmers transitioning to advanced Python. The tutorials are designed to be easy to understand and provide a solid foundation in advanced concepts."
+    },
+    {
+        "source_link": "https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2",
+        "content_type": "Video Course",
+        "difficulty_level": "Advanced",
+        "description": "A complete video course on Advanced Python topics. This playlist contains videos covering more in-depth and complex concepts in Python programming.",
+        "relevance": "Great for visual learners who prefer watching video content. The course can cover a variety of advanced topics in a more digestible manner."
+    }
+]

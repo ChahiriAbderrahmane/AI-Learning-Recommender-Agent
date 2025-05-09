@@ -39,7 +39,7 @@ class recom_agent_team:
     def research_task(self) -> Task:
         return Task(
             config=self.tasks_config['research_task'], # type: ignore[index]
-            output_file='adaptive_learning/report.md', llm = llm # This is the file that will be contain the final report.
+            output_file='resources/response.json', llm = llm # This is the file that will be contain the final report.
         )
     
     @crew
@@ -50,7 +50,8 @@ class recom_agent_team:
             process=Process.sequential,
             verbose=False,
             planning=True,
-            llm=llm
+            llm=llm,
+            memory=True
         )
 
 

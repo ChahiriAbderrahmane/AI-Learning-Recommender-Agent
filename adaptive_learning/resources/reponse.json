@@ -1,0 +1,107 @@
+[
+  {
+    "source_link": "https://www.geeksforgeeks.org/sql-views/",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "A comprehensive guide explaining SQL views, their creation, usage, and advantages. It covers basic concepts and examples suitable for beginners.",
+    "relevance": "Provides a foundational understanding of SQL views, suitable for learners starting with SQL."
+  },
+  {
+    "source_link": "https://www.sqltutorial.org/sql-views/",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "This tutorial explains what SQL views are, how they are defined, and how to query data from them. It's ideal for those new to SQL views.",
+    "relevance": "Explains the fundamental concepts of SQL views with clear definitions, aiding beginners in understanding the topic."
+  },
+  {
+    "source_link": "https://www.w3schools.com/sql/sql_view.asp",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "W3Schools' SQL view tutorial covers creating, replacing, and dropping views with simple examples. It provides a hands-on approach for beginners.",
+    "relevance": "Offers practical examples and exercises for creating and manipulating views, which is beneficial for beginners."
+  },
+  {
+    "source_link": "https://beginner-sql-tutorial.com/sql-views.htm",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "This tutorial explains SQL views as virtual tables, focusing on restricting access and hiding data complexity. It's designed for beginners.",
+    "relevance": "Focuses on the core concept of views as virtual tables and their use in simplifying database access for beginners."
+  },
+  {
+    "source_link": "https://www.programiz.com/sql/views",
+    "content_type": "article",
+    "difficulty_level": "beginner",
+    "description": "Programiz's tutorial explains SQL views with examples, comparing them to functions in programming. Suitable for beginners with basic programming knowledge.",
+    "relevance": "Uses analogies to programming functions to explain SQL views, which can be helpful for learners with a programming background."
+  },
+  {
+    "source_link": "https://learnsql.com/blog/sql-views/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "An article discussing the use of SQL views to simplify complex queries, providing examples of how views can be used to streamline SQL code.",
+    "relevance": "Demonstrates how views can be used to simplify complex SQL queries, valuable for learners ready to move beyond the basics."
+  },
+  {
+    "source_link": "https://www.tutorialspoint.com/sql/sql-views.htm",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "Tutorialspoint's SQL view tutorial covers the creation, usage, and management of views, including more advanced concepts like updating views.",
+    "relevance": "Covers a broader range of topics related to views, including updating views, suitable for intermediate learners."
+  },
+  {
+    "source_link": "https://www.red-gate.com/simple-talk/sql/database-administration/working-with-views-in-sql-server/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "Explains how views are saved queries and how SQL Server uses them to return results, primarily focuses on SQL Server.",
+    "relevance": "Provides practical insights into working with views in SQL Server, beneficial for learners using this specific database system."
+  },
+  {
+    "source_link": "https://learn.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-ver16",
+    "content_type": "article",
+    "difficulty_level": "advanced",
+    "description": "Microsoft's documentation on SQL Server views covers advanced topics such as using views for security and backward compatibility.",
+    "relevance": "Explores advanced uses of views, such as security and backward compatibility, targeted toward advanced SQL users."
+  },
+    {
+    "source_link": "https://www.youtube.com/watch?v=cLSxasHg9WY",
+    "content_type": "video",
+    "difficulty_level": "beginner",
+    "description": "A video tutorial that explains SQL views with clear explanations and examples. It targets users who prefer video-based learning.",
+    "relevance": "Caters to visual learners who prefer watching video tutorials to understand SQL views. Clear instructions and examples are provided"
+  },
+  {
+    "source_link": "https://csharp-video-tutorials.blogspot.com/2012/09/views-in-sql-server-part-39.html",
+    "content_type": "video",
+    "difficulty_level": "beginner",
+    "description": "A free C#, .Net, and SQL Server video tutorial explaining views, suitable for beginners. It presents views as saved SQL queries.",
+    "relevance": "Offers a free video resource for beginners, particularly helpful for those working with SQL Server and familiar with C# or .Net."
+  },
+  {
+    "source_link": "https://www.youtube.com/watch?v=Uj2zlprEpi8",
+    "content_type": "video",
+    "difficulty_level": "beginner",
+    "description": "Video tutorial on creating views in SQL with examples, great for beginners.",
+    "relevance": "Caters to visual learners, offering practical guidance on creating views."
+  },
+  {
+    "source_link": "https://www.mooc-list.com/tags/sql",
+    "content_type": "MOOC",
+    "difficulty_level": "beginner",
+    "description": "A list of SQL MOOCs and free online courses related to SQL, it helps finding courses that cover SQL views.",
+    "relevance": "Provides a collection of MOOCs for structured learning on SQL, which can include in-depth coverage of views."
+  },
+  {
+    "source_link": "https://www.my-mooc.com/en/mooc/databases-and-sql-for-data-science/",
+    "content_type": "MOOC",
+    "difficulty_level": "beginner",
+    "description": "A MOOC focuses on databases and SQL for data science, where SQL views are likely to be covered.",
+    "relevance": "A course is designed to help learners know more about SQL"
+  },
+  {
+    "source_link": "https://www.vertabelo.com/blog/database-views/",
+    "content_type": "article",
+    "difficulty_level": "intermediate",
+    "description": "A blog post that explores database views, explaining them as virtual tables resulting from an SQL query. Focuses on creating and using views.",
+    "relevance": "Useful for gaining a deeper understanding of how database views function and how to implement them effectively."
+  }
+]

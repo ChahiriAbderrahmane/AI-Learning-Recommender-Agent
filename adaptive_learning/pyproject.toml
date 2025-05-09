@@ -5,7 +5,11 @@ description = "adaptive_learning using crewAI"
 authors = [{ name = "Your Name", email = "you@example.com" }]
 requires-python = ">=3.10,<3.13"
 dependencies = [
-    "crewai[tools]>=0.114.0,<1.0.0"
+    "crewai[tools]>=0.114.0,<1.0.0",
+    "sentence-transformers>=4.1.0",
+    "supabase>=2.15.1",
+    "torch>=2.7.0",
+    "transformers>=4.46.3",
 ]
 
 [project.scripts]
